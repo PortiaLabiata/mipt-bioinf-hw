@@ -2,1381 +2,540 @@
 /home/portia_labiata
 ├── aboba.py
 ├── anaconda3
-│   ├── bin
-│   ├── cmake
-│   ├── compiler_compat
-│   ├── condabin
-│   ├── conda-meta
-│   ├── doc
-│   ├── envs
-│   ├── etc
-│   ├── fonts
-│   ├── include
-│   ├── lib
-│   ├── libexec
-│   ├── LICENSE.txt
-│   ├── licensing
-│   ├── man
-│   ├── mkspecs
-│   ├── mysql
-│   ├── mysql-test
-│   ├── phrasebooks
-│   ├── pkgs
-│   ├── plugins
-│   ├── qml
-│   ├── sbin
-│   ├── share
-│   ├── shell
-│   ├── ssl
-│   ├── translations
-│   ├── var
-│   ├── x86_64-conda_cos7-linux-gnu
-│   └── x86_64-conda-linux-gnu
 ├── bedtools
 ├── bioinf
-│   └── seminar1
 ├── Bioinformatics_2025
-│   └── hw
 ├── blender-4.3.2-linux-x64
-│   ├── 4.3
-│   ├── blender
-│   ├── blender.desktop
-│   ├── blender-launcher
-│   ├── blender-softwaregl
-│   ├── blender.svg
-│   ├── blender-symbolic.svg
-│   ├── blender-system-info.sh
-│   ├── blender-thumbnailer
-│   ├── copyright.txt
-│   ├── lib
-│   ├── license
-│   ├── readme.html
-│   ├── textures
-│   └── usd
 ├── circuitjs1
-│   ├── chrome_100_percent.pak
-│   ├── chrome_200_percent.pak
-│   ├── chrome-sandbox
-│   ├── circuitjs1
-│   ├── icudtl.dat
-│   ├── libEGL.so
-│   ├── libffmpeg.so
-│   ├── libGLESv2.so
-│   ├── libvk_swiftshader.so
-│   ├── libvulkan.so
-│   ├── LICENSE
-│   ├── LICENSES.chromium.html
-│   ├── locales
-│   ├── resources
-│   ├── resources.pak
-│   ├── snapshot_blob.bin
-│   ├── swiftshader
-│   ├── v8_context_snapshot.bin
-│   ├── version
-│   └── vk_swiftshader_icd.json
 ├── firm.bin
 ├── homework
-│   └── hw_file_1.txt
 ├── igv
-│   ├── igv0.log
-│   ├── IGV_Linux_2.16.2
-│   └── prefs.properties
 ├── lib
-│   ├── annotations-13.0.jar
-│   ├── antlr-runtime-3.5.2.jar
-│   ├── BattleScribeEngine.jar
-│   ├── commons-codec-1.10.jar
-│   ├── commons-io-2.4.jar
-│   ├── controlsfx-11.0.1.jar
-│   ├── DataUtils.jar
-│   ├── DesktopCommon.jar
-│   ├── gson-2.1.jar
-│   ├── javax.servlet-api-3.1.0.jar
-│   ├── jetty-http-9.4.26.v20200117.jar
-│   ├── jetty-io-9.4.26.v20200117.jar
-│   ├── jetty-jmx-9.4.26.v20200117.jar
-│   ├── jetty-server-9.4.26.v20200117.jar
-│   ├── jetty-util-9.4.26.v20200117.jar
-│   ├── jna-5.5.0.jar
-│   ├── kotlin-stdlib-1.3.71.jar
-│   ├── kotlin-stdlib-common-1.3.71.jar
-│   ├── kotlin-stdlib-jdk7-1.3.71.jar
-│   ├── kotlin-stdlib-jdk8-1.3.71.jar
-│   ├── kotlinx-coroutines-core-1.3.0-M1.jar
-│   ├── simple-xml-2.7.1.jar
-│   ├── ST4-4.0.8.jar
-│   ├── stax-1.2.0.jar
-│   ├── stax-api-1.0.1.jar
-│   └── xpp3-1.1.3.3.jar
 ├── net
 ├── nost.txt
 ├── original
 ├── PrusaSlicer-2.8.0+linux-x64-GTK3-202406270929.AppImage
 ├── R
-│   └── x86_64-pc-linux-gnu-library
 ├── reloadnet.sh
 ├── scripts
-│   ├── lain.jpg
-│   ├── logo.psd
-│   ├── odetest.py
-│   ├── tasks
-│   ├── test2.py
-│   ├── test.jpg
-│   ├── test.png
-│   ├── token.txt
-│   ├── watermark_bot
-│   ├── zipwith.py
-│   └── С
 ├── serialplot-0.12.0-x86_64.AppImage
 ├── snap
-│   └── wxmaxima
 ├── STM32_1
-│   ├── Inc
-│   ├── Src
-│   └── STM32_1.ioc
 ├── STM32CubeMX
-│   ├── db
-│   ├── help
-│   ├── jre
-│   ├── olddb
-│   ├── plugins
-│   ├── STM32CubeMX
-│   ├── third_parties_plugins
-│   ├── Uninstaller
-│   └── utilities
 ├── STMicroelectronics
-│   └── STM32Cube
 ├── strategies
 ├── st.txt
 ├── tex
-│   └── install-tl-20230909
 ├── tor-browser
-│   ├── Browser
-│   └── start-tor-browser.desktop
 ├── VID_20250225_124536.mp4
 ├── Без названия1.ipynb
 ├── Без названия.ipynb
 ├── Видео
 ├── Документы
-│   ├── 22-11-03_Dop_po_matanu_-_prezentatsia.pdf
-│   ├── 2. Предел и непрерывность.pdf
-│   ├── 4.Интеграл Римана 2023.pdf
-│   ├── Advanced R.pdf
-│   ├── Algoritmy_i_modeli_vychislenia.pdf
-│   ├── Bilety_Redkozubova_1_semestr.pdf
-│   ├── BLAST.pdf
-│   ├── Burtsev-arph0dykv7d.pdf
-│   ├── CambridgeDeclarationOnConsciousness.pdf
-│   ├── colloq_1.pdf
-│   ├── DnD
-│   ├── Doc Apr 20 2023.pdf
-│   ├── Doc Jun 08 2023(1).pdf
-│   ├── Doc Jun 08 2023.pdf
-│   ├── Doc Jun 10 2023.pdf
-│   ├── doc.pdf
-│   ├── Hrvatski za početnike 1 -- Marica Čilaš-Mikulić; Milvia Gulešić Machata; Dinka Pasini; -- 2006 -- Hrvatska sveučilišna naklada -- 9531691231 -- 914d44e20cb1d25ef0bf9641f0fd791f -- Anna’s Archive.pdf
-│   ├── Hrvatski-za-pocetnike-1_Udzbenik_01.pdf
-│   ├── Ivanova(Teylor).pdf
-│   ├── Kernigan-BV-Yazyk-programmirovaniya-C-2-e-izdanie(1).djvu
-│   ├── kovalenko-arph0duaha8.pdf
-│   ├── kozhevnikov-arph0dybmbp.pdf
-│   ├── LARS оригинальная статья.pdf
-│   ├── Line follower на WeDo .pdf
-│   ├── Lyza's White Whistle ( Made In Abyss ) Working - 3429004
-│   ├── Mage the Ascension.pdf
-│   ├── mit-scheme-user.pdf
-│   ├── mitteilungsblattsondernummer-202324-33.s.pdf
-│   ├── Pattetrn recognition and machine learning.pdf
-│   ├── petrovic-arph0dxlxmm.pdf
-│   ├── PlatformIO
-│   ├── QR код сайт 2.gif
-│   ├── qsp_chapter10-plank.pdf
-│   ├── s42401-022-00141-1.pdf
-│   ├── Savelyev_V_Statistika_i_kotiki.pdf
-│   ├── snapshot.jpg
-│   ├── Sozdat_i_otygrat.pdf
-│   ├── Spell_all_spells.png
-│   ├── survival.pdf
-│   ├── T'au roster 1.0.txt
-│   ├── T'au roster 1.1.txt
-│   ├── T'au roster 2 1.0.txt
-│   ├── Ted_Chan_Istoriya_tvoey_zhizni_sbornik_.fb2
-│   ├── Termodinamika_Bilety.pdf
-│   ├── The Art of R Programming.pdf
-│   ├── The_Monsters_Know_What_Theyre_Doing.pdf
-│   ├── Untitled 1.odt
-│   ├── volga_fish2.txt
-│   ├── volga_fish.txt
-│   ├── Vvedenie_v_matanaliz.pdf
-│   ├── Ага, сейчас
-│   ├── Анализы.pdf
-│   ├── Аспи.pdf
-│   ├── Беклемишев Д.В - Курс аналитической геометрии и линейной алгебры-Лань (2015).pdf
-│   ├── Бесов лекции по матану.pdf
-│   ├── Биология
-│   ├── Введение в матанализ.pdf
-│   ├── Винберг Э.Б. - Курс алгебры-МЦНМО (2014).pdf
-│   ├── Внутренняя энергия и теплоёмкость газа Ван-дер-Ваальса.pdf
-│   ├── Вопросы к зачету зима 2023год.docx
-│   ├── Вопросы к зачёту по бхе.docx
-│   ├── Вопросы по проге.odt
-│   ├── Графики для Катиной лабы 3.odt
-│   ├── Дипломы олимпиад
-│   ├── Диффуры Краснов.pdf
-│   ├── Длиннопост 2.odt
-│   ├── Длиннопост 3.odt
-│   ├── Длиннопост.odt
-│   ├── Документы
-│   ├── Другие НРИ
-│   ├── Задача про кубик и бесконечную прогрессию
-│   ├── Заявление физкультура.pdf
-│   ├── Ионные двигатели.pdf
-│   ├── Катина задача 2.29.ods
-│   ├── Катина лаба 2.ods
-│   ├── Катина лаба 3.ods
-│   ├── Катина лаба 4.ods
-│   ├── Катина лаба 4.odt
-│   ├── Катина лаба 5.ods
-│   ├── Катина лаба 5.odt
-│   ├── Катина преза по экологии.odp
-│   ├── Катина преза по экологии.pdf
-│   ├── Катина преза по экологии.pptx
-│   ├── Катинна преза по экологии 2.odp
-│   ├── Катинна преза по экологии 2.pdf
-│   ├── Катинна преза по экологии 2.pptx
-│   ├── Катины билеты по диффурам.pdf
-│   ├── Катины документы
-│   ├── Катины пересдачи.odt
-│   ├── Катины презы
-│   ├── Китайский
-│   ├── Ключи китайский.pdf
-│   ├── Код для сайта.gif
-│   ├── Конспекты МАИиР
-│   ├── Конспекты по гарману.pdf
-│   ├── Конспекты по гарману Саулина.pdf
-│   ├── Кринж
-│   ├── ЛА_2023(2).pdf
-│   ├── Лаба по химии №3 таблица.pdf
-│   ├── Лагутин.pdf
-│   ├── Листок_ТД.pdf
-│   ├── Матмоделирование.ipynb
-│   ├── Матричные функции.pdf
-│   ├── Непрерывные нейронки.pdf
-│   ├── НИ_ИвановаСВ_черновик.pdf
-│   ├── ОДУ Арнольд 2.pdf
-│   ├── Олимпиадное программирование.pdf
-│   ├── Паста об инквизиции
-│   ├── Поле детям.odp
-│   ├── Правила по хорватскому.pdf
-│   ├── Презы
-│   ├── Программа по гарману.pdf
-│   ├── Проект Экология аккумулятора.docx
-│   ├── ПУ 2024 сертификат.pdf
-│   ├── ПФ
-│   ├── Разные документы
-│   ├── Рекомендательное письмо Кате.odt
-│   ├── Справка.pdf
-│   ├── Тензоры Ершов.pdf
-│   ├── Теоремы Штольца.pdf
-│   ├── То, что я никому и никогда не расскажу.odt
-│   ├── Файлы с флешки
-│   ├── Физика
-│   ├── Физметоды
-│   ├── Форез.odt
-│   ├── Химия
-│   ├── Хлорофиллы водорослей - методы получения и использование.pdf
-│   ├── ЭДУ конспекты.pdf
-│   ├── ЭДУ конспекты prime.pdf
-│   └── Эрроусмит ОДУ.pdf
 ├── Загрузки
-│   ├── 1130000060639266_1083.pdf
-│   ├── 1_KURS_OSEN_2022_g_1.xls
-│   ├── 1-kurs-osen-2022-g-zachet(1).xls
-│   ├── 1-kurs-osen-2022-g-zachet(2).xls
-│   ├── 1-kurs-osen-2022-g-zachet(3).xls
-│   ├── 1-kurs-osen-2022-g-zachet.xls
-│   ├── 1-kurs-sessiya-leto-2022_2023.xls
-│   ├── 1_KURS_SESSIYa_LETO_2022-2023.xls
-│   ├── 1-kurs-zachet-vesna-2022_2023(1).xls
-│   ├── 1-kurs-zachet-vesna-2022_2023(2).xls
-│   ├── 1-kurs-zachet-vesna-2022_2023.xls
-│   ├── 1 КУРС(1).xlsx
-│   ├── 1 КУРС.xlsx
-│   ├── 2021_05_phase_diagram.pdf
-│   ├── 2_16.docx
-│   ├── 2b2276c623ef48b133e653cb6065df9d.docx
-│   ├── 3_KURS_OSEN_2024_g__3.xls
-│   ├── 3 КУРС ВЕСНА 2025(2).xls
-│   ├── 3 КУРС ВЕСНА 2025.xls
-│   ├── 3 КУРС ОСЕНЬ 2024 г..xls
-│   ├── 3 КУРС_экзамены _осень-А3(1).xlsx
-│   ├── 41598_2022_13945_MOESM2_ESM.xlsx
-│   ├── 421-Article Text-1253-1-10-20131224.pdf
-│   ├── 4.Интеграл Римана 2023.pdf
-│   ├── 51869470626_eb52fc39bd_c.jpg
-│   ├── 52247037250_b76d8eb3df_w.jpg
-│   ├── ac0342673.ris
-│   ├── (Alternative Metal) [24 192] [LP] System Of A Down - Дискография - 1998-2005, FLAC (image+cue) [rutracker-3434098].torrent
-│   ├── an2548-introduction-to-dma-controller-for-stm32-mcus-stmicroelectronics.pdf
-│   ├── an2586-getting-started-with-stm32f10xxx-hardware-development-stmicroelectronics.pdf
-│   ├── an4852-programming-an-external-flash-memory-using-the-uart-bootloader-builtin-stm32-microcontrollers-stmicroelectronics.pdf
-│   ├── Anketa.xlsx
-│   ├── balandin2006_obsch_bot.djvu
-│   ├── BF00192091.pdf
-│   ├── BF02084158.pdf
-│   ├── Big Kitty Illustration - Catstyle.jpg
-│   ├── Biologia_kletki_2.docx
-│   ├── Boss_Lektsii_po_matematike_t_10_-Perebor_i_effektivnye_algoritmy.djvu
-│   ├── Boss_V_Lektsii_po_matematikelineynaya_algebra_T_3.djvu
-│   ├── Boss_V_-_Lektsii_po_matematike_Tom_1_Analiz.djvu
-│   ├── bt2.pdf
-│   ├── c_charactersheet.pdf
-│   ├── cd00167594-stm32-microcontroller-system-memory-boot-mode-stmicroelectronics.pdf
-│   ├── CD4017.pdf
-│   ├── Chlorophyll_a_structure.png
-│   ├── Chlorophyll_a_structure.svg
-│   ├── DGtanks.txt
-│   ├── DIMMCartridgeV4-B_Cu.gbr
-│   ├── Distsipliny_bazovykh_organitsiy_1.docx
-│   ├── dm00236305-generalpurpose-timer-cookbook-for-stm32-microcontrollers-stmicroelectronics.pdf
-│   ├── dmitry-skolzki-robert-cunninghan.jpg
-│   ├── dungeon(5).ds
-│   ├── Ekologia_i_biologicheskiy_potentsial_vodorosley_Sbornik_Tezisov_MFTI_2022.docx
-│   ├── Ekzamenatsionnaya_programma_po_analiticheskoy_geometrii.pdf
-│   ├── Ekzamenatsionnaya_programma_po_difuram.pdf
-│   ├── Ershov_L_LA_2020-1.pdf
-│   ├── Ershov_L_LA_2020.pdf
-│   ├── Goldenberg-LM-Tsifrovaya-obrabotka-signalov.djvu
-│   ├── Gonorovskii-IS-Radiotehnicheskie-tsepi-i-signaly.djvu
-│   ├── GUX1G7NniUw_-_2.jpg
-│   ├── IMG_4101.JPG
-│   ├── Ipu.png
-│   ├── i.webp
-│   ├── Kernigan-BV-Yazyk-programmirovaniya-C-2-e-izdanie.djvu
-│   ├── Kizel-VA-Prakticheskaya-molekulyarnaya-spektroskopiya.djv
-│   ├── Konsultatsia_k_letney_praktike.docx
-│   ├── Kontrprimery_v_analize_B_Gelbaum_Dzh_Olmsted.djvu
-│   ├── lab_bench_power_supply_circuit_diagram_0CyI0E6htz.jpg
-│   ├── Line follower на WeDo -сжатый.pdf
-│   ├── lm3914_datasheet.pdf
-│   ├── LM3915.PDF
-│   ├── lotova1989_sravn_anat_vyssh_rast.djvu
-│   ├── map1_27x25.png
-│   ├── map_27x25.png
-│   ├── Mekhanika_LL.pdf
-│   ├── Message01.eml
-│   ├── Metodichka_1_semestr.pdf
-│   ├── Part1.txt
-│   ├── Pasechnik_10_kl_baza.pdf
-│   ├── Pathfinder 2E (Second Edition) [2019 - 2022, PDF, ENG] (обновлено 28.07.22) [rutracker-6213328].torrent
-│   ├── Pathfinder RPG - Paizo Inc. [2009-2018, PDF, ENG] [3800+ книг и материалов] [rutracker-5542887].torrent
-│   ├── photo_2024-11-07_13-00-36.png
-│   ├── physchem_lectures.pdf
-│   ├── physmeth_labs-7.pdf
-│   ├── pm0056-stm32f10xxx20xxx21xxxl1xxxx-cortexm3-programming-manual-stmicroelectronics.pdf
-│   ├── pm0075-stm32f10xxx-flash-memory-microcontrollers-stmicroelectronics.pdf
-│   ├── poyasnitelnaya_zapiska.docx
-│   ├── prikaz-n-3402_1-ot-13.12.2021-vykhodnye-dni.docx
-│   ├── Rapid Comm Mass Spectrometry - 2007 - Oursel - Lipid composition of membranes of Escherichia coli by liquid chromatography.pdf
-│   ├── Raspisanie_povtornoy_promezhutochnoy_attestatsii.docx
-│   ├── rcsb_pdb_1H68.fasta
-│   ├── Rhodopsin2_05713.result.zip
-│   ├── Rhodopsin2_40297.result.zip
-│   ├── Rhodopsin2_7cd4f.result.zip
-│   ├── Rhodopsin2_c9da0.result.zip
-│   ├── Rotfuss_Hronika-ubiycy-korolya_2_Strahi-mudreca-Kniga-1_308403.fb2
-│   ├── Rotfuss_Hronika-ubiycy-korolya_2_Strahi-mudreca-Kniga-2_311677.fb2
-│   ├── s00425-004-1368-5.pdf
-│   ├── s11047-008-9067-y.pdf
-│   ├── s42401-022-00141-1.pdf
-│   ├── Samarskii-AA-Matematicheskoe-modelirovanie-Idei-Metody-Primery.djvu
-│   ├── science.1132493.pdf
-│   ├── science.278.5337.446.pdf
-│   ├── science.7725098.pdf
-│   ├── science.7973651.pdf
-│   ├── Serdyuk-I-Metody-v-molekulyarnoi-biofizike-Tom-1(1).djvu
-│   ├── Serdyuk-I-Metody-v-molekulyarnoi-biofizike-Tom-2.djvu
-│   ├── Sergienko-AB-Tsifrovaya-obrabotka-signalov.djvu
-│   ├── Shebes-MR-Teoriya-lineinyh-elektricheskih-tsepei-v-uprazhneniyah-i-zadachah.djvu
-│   ├── Shebes-MR-Zadachnik-po-teorii-lineinyh-elektricheskih-tsepei.djvu
-│   ├── Sozdat_i_otygrat.pdf
-│   ├── tanks.pdf
-│   ├── TARDISx.png
-│   ├── Telegram Desktop
-│   ├── The_Monsters_Know_What_Theyre_Doing.pdf
-│   ├── The Travaller screenshot.png
-│   ├── tsxClBNP8mA.jpg
-│   ├── voprosy_k_zachety_2023.pdf
-│   ├── Voprosy_po_kursu_mikologia_i_algologia.docx
-│   ├── Warlock Subclass The Eldritch_ Turn your enemies insane with the cosmic horror of this lovecraftian patron.png
-│   ├── Watts, Peter - Peter Watts Is an Angry Sentient Tumor_ Revenge Fantasies and Essays (2019, Tachyon Publications) - libgen.li.epub
-│   ├── yoon2003.pdf
-│   ├── Zaliznyak-VE-Osnovy-nauchnyh-vychislenii-Vvedenie-v-chislennye-metody-dlya-fizikov.djvu
-│   ├── zayvlenie_na_prikreplenie.docx
-│   ├── zayvlenie_na_prikreplenie.pdf
-│   ├── Zimnyaya_ekzam_sessia_2022-2023_1_KURS_uu.xls
-│   ├── zimnyaya-ekzam-sessiya-2022_2023-1-kurs.-uu(1).xls
-│   ├── zimnyaya-ekzam-sessiya-2022_2023-1-kurs.-uu.xls
-│   ├── Абнетт Дэн - Warhammer 40000, цикл Ересь Хоруса . Книга 1 - Возвышение Хоруса [Casper Valter, (ЛИ), 2019, 128 kbps, MP3] [rutracker-5720546].torrent
-│   ├── Беклемишев Д.В - Курс аналитической геометрии и линейной алгебры-Лань (2015).pdf
-│   ├── Вейр, Энди - Марсианин - libgen.li.fb2
-│   ├── Виды психики: на пути к пониманию сознания.fb2
-│   ├── Внутренняя рыба.fb2
-│   ├── [Волшебник Земноморья (сборник) 0Волшебник Земноморья 1Земноморье 1] Ле Гуин, Урсула К. - Волшебник Земноморья (2002, Э.fb2
-│   ├── Вопросы к экзамену.docx
-│   ├── ВПВ_туннельник-1.pdf
-│   ├── ВПВ_электросмачивание-5.pdf
-│   ├── Гибсон, Уильям _ - libgen.li.fb2
-│   ├── Глаз разума.fb2
-│   ├── Глейк, Джеймс - Хаос. Создание новой науки (2001, Амфора) - libgen.li.fb2
-│   ├── Гордер, Юстейн - Мир Софии (2006, Амфора) - libgen.li.fb2
-│   ├── Грег Бир сборник произведений [1998-2013, FB2, RUS] [rutracker-4859857].torrent
-│   ├── Джонс Диана - Ходячий замок 01, Ходячий замок [Герасимов Вячеслав, 2014 г., 96 kbps, MP3] [rutracker-4854054].torrent
-│   ├── Джонс Диана - Ходячий замок 02, Воздушный замок [Винокурова Надежда, 2014 г., 96 kbps, MP3] [rutracker-4854973].torrent
-│   ├── Джордж Р.Р. Мартин George R.R. Martin - Песнь Льда и Пламени A Song of Ice and Fire [1996-2011, FB2, RUS] [rutracker-4483312].torrent
-│   ├── ДНК-компьютинг.pdf
-│   ├── Доклад ментор.pdf
-│   ├── Доклад по альгологии, первый семестр(1).pptx
-│   ├── ЗАЯВЛЕНИЕ о постановке на в_учет.docx
-│   ├── [Знак Единорога _ Брийский цикл _ Книга Нового Солнца №1_ Брия – 3 – Книги нового солнца №1] Вульф, Джин _ - libgen.li.fb2
-│   ├── Зуланке Р., Онищик А.Л. - Алгебра и геометрия. Том 1 (2004, МЦНМО) - libgen.li.djvu
-│   ├── Зуланке Р., Онищик А.Л. - Алгебра и геометрия. Том 2 - Модули и алгебры (2008, Издательство МЦНМО) - libgen.li.djvu
-│   ├── Иэн Бэнкс - Шаги по стеклу.fb2
-│   ├── Каталог катастрофы.fb2
-│   ├── Катин_ВПВ-1.pdf
-│   ├── Катин_ВПВ.pdf
-│   ├── Коренев, Григорьев- Задачи и вопросы по общей и неорганической химии.djvu
-│   ├── Кудрявцев Л.Д., Кутасов А.Д., и др. - Сборник задач по математическому анализу_ [В 3 т.] Том 1(2003, Физматлит) - libgen.lc.djvu
-│   ├── Лабораторная посуда.pptx
-│   ├── Лосев Дерзание духа.fb2
-│   ├── МА_1пис_экз_Объявление_для_студентов.pdf
-│   ├── Математическое_моделирование_Бак_2023.pdf
-│   ├── Методичка ЯМР.pdf
-│   ├── Миттел К. (ред.) - Мицеллообразование, солюбилизация и микроэмульсии - libgen.li.djvu
-│   ├── [Мордимер Маддердин 1] Яцек, Пекара. - Слуга Божий (2003) - libgen.li.fb2
-│   ├── Насосы интуиции и другие инструменты мышления.fb2
-│   ├── Никольский Б.П. (ред.) - Справочник химика. т.3-Химия (1965).djvu
-│   ├── Обложка История театра ч3.jpg
-│   ├── (Отцы-основатели. Русское пространство) Стругацкий А.Н., Стругацкий Б.Н. - Трудно быть богом. Фантастические произв.djvu
-│   ├── Павел Майка - Мир Миров.fb2
-│   ├── Пантаев М.Ю. - Матанализ с человеческим лицом, или Как выжить после предельного перехода. Полный курс математичес.djvu
-│   ├── Пантеон Pantheon Сезон 1 Серии 1-8 из 8 (Крейг Силверстайн) [2022, США, фантастика, драма, WEB-DLRip] MVO (NewStation) + O [rutracker-6256694].torrent
-│   ├── Пратчетт Терри - Плоский мир. Ведьмы 1, Творцы заклинаний [Клюквин Александр, 2017, 56 kbps, MP3] [rutracker-5404207].torrent
-│   ├── Пратчетт Терри – Плоский мир. Смерть 1, Мор. Ученик Смерти [Клюквин Александр, 2018, 64 kbps, MP3] [rutracker-5517143].torrent
-│   ├── Психодиагностика.xlsx
-│   ├── Результаты Органика КР1-2023.pdf
-│   ├── Роулинг Джоан - Гарри Поттер и принц-полукровка [Клюквин Александр, 2011, 128 kbps, MP3] [rutracker-3692397].torrent
-│   ├── Саган, Карл Эдуард - Контакт - libgen.li.fb2
-│   ├── Сакс, Оливер - Человек, который принял свою жену за шляпу - libgen.li.fb2
-│   ├── СНИЛС.jpg
-│   ├── СНИЛС Илюша.jpg
-│   ├── Согласие Сириус книга.pdf
-│   ├── Терри Пратчетт- Собрание сочинений [1982-2021, FB2, RUS] [rutracker-5309723].torrent
-│   ├── Титрование аминокислот.pdf
-│   ├── Уилсон, Роберт Чарльз - Дарвиния (2009, ИК „Бард“) - libgen.li.fb2
-│   ├── Филиппов-Илья-паспорт.jpg
-│   ├── Хлорофиллы водорослей- методы получение и использование(1).docx
-│   ├── Хлорофиллы водорослей- методы получение и использование(2).docx
-│   ├── Хлорофиллы водорослей- методы получение и использование.docx
-│   ├── Хлорофиллы водорослей- методы получение и использование.rtf
-│   ├── Хлорофиллы водорослей - методы получения и использование.docx
-│   ├── Цезарий Збешховский - Всесожжение.fb2
-│   ├── Ч.1 Глава 2. Последовательности.docx
-│   ├── Чэндлер, Рэймонд - Король в желтом.fb2
-│   ├── [Шедевры фэнтези №26] Ковалькова, Милана _ - libgen.li(1).fb2
-│   ├── [Шедевры фэнтези №26] Ковалькова, Милана _ - libgen.li(2).fb2
-│   ├── [Шедевры фэнтези №26] Ковалькова, Милана _ - libgen.li.fb2
-│   ├── Ширяев А.Н. - Задачи по теории вероятностей-МЦНМО (2006).djvu
-│   ├── ЭРиСС_бак_маг-1.pdf
-│   └── Яцек Дукай - Иные песни.fb2
 ├── Изображения
-│   ├── 005271_1221x687_304161_035.jpg
-│   ├── 0ba15298dd14507a7249ead6f19a306c.jpg
-│   ├── 1471550860_edvard-norton-mem-1_600x338.jpg
-│   ├── 1544678242180389118.jpg
-│   ├── 178-000-years-in-case-anyone-is-wondering-v0-lspzh2aab9cd1.webp
-│   ├── 18fputq1xatc1.jpeg
-│   ├── 19uw6x0uy8wb1.jpg
-│   ├── 1bd0dc35d69336783c16e5ebb498b526.png
-│   ├── 1e4cef1a9c182fb75c1374efd9614fae.jpg
-│   ├── 1eoy90m7x12d1.webp
-│   ├── 2022-12-03-002506_1920x1080_scrot.png
-│   ├── 2023-01-19-023510_1920x1080_scrot.png
-│   ├── 2023-01-19-023521_1920x1080_scrot.png
-│   ├── 2023-04-17-210141_1441x752_scrot.xcf
-│   ├── 2023-04-25-101916_1920x1080_scrot.png
-│   ├── 2023-05-18-101812_1920x1080_scrot.png
-│   ├── 2023-05-18-101934_1920x1080_scrot.png
-│   ├── 2023-06-14-223424_1920x1080_scrot.png
-│   ├── 2023-06-15-180320_1920x1080_scrot.png
-│   ├── 2023-07-09-183416_1920x1080_scrot.png
-│   ├── 2023-08-01-224218_1920x1080_scrot.png
-│   ├── 2023-08-02-211503_1920x1080_scrot.png
-│   ├── 2023-08-02-212055_1920x1080_scrot.png
-│   ├── 2023-08-02-212659_1920x1080_scrot.png
-│   ├── 2023-08-02-212854_1920x1080_scrot.png
-│   ├── 2023-08-02-212906_1920x1080_scrot.png
-│   ├── 2023-08-02-213411_1920x1080_scrot.png
-│   ├── 2023-08-03-151951_1920x1080_scrot.png
-│   ├── 2023-08-03-151954_1920x1080_scrot.png
-│   ├── 2023-08-03-224458_1920x1080_scrot.png
-│   ├── 2023-08-03-225416_1920x1080_scrot.png
-│   ├── 2023-08-03-225600_1920x1080_scrot.png
-│   ├── 2023-08-04-082834_1920x1080_scrot.png
-│   ├── 2023-08-04-082840_1920x1080_scrot.png
-│   ├── 2023-08-04-082854_1920x1080_scrot.png
-│   ├── 2023-08-04-082858_1920x1080_scrot.png
-│   ├── 2023-08-04-082907_1920x1080_scrot.png
-│   ├── 2023-08-04-082910_1920x1080_scrot.png
-│   ├── 2023-08-07-190622_1920x1080_scrot.png
-│   ├── 2023-08-07-191002_1920x1080_scrot.png
-│   ├── 2023-08-10-085843_1920x1080_scrot.png
-│   ├── 2023-08-10-172813_1920x1080_scrot.png
-│   ├── 2023-08-10-172824_1920x1080_scrot.png
-│   ├── 2023-08-10-172942_1920x1080_scrot.png
-│   ├── 2023-08-10-173113_1920x1080_scrot.png
-│   ├── 2023-08-10-174145_1920x1080_scrot.png
-│   ├── 2023-08-10-174951_1920x1080_scrot.png
-│   ├── 2023-08-12-121732_1920x1080_scrot.png
-│   ├── 2023-08-12-121840_1920x1080_scrot.png
-│   ├── 2023-08-12-121945_1920x1080_scrot.png
-│   ├── 2023-08-12-185952_1920x1080_scrot.png
-│   ├── 2023-08-14-132811_1920x1080_scrot.png
-│   ├── 2023-08-14-143138_1920x1080_scrot.png
-│   ├── 2023-08-14-143141_1920x1080_scrot.png
-│   ├── 2023-08-14-220121_1920x1080_scrot.png
-│   ├── 2023-08-14-220128_1920x1080_scrot.png
-│   ├── 2023-08-15-210416_1920x1080_scrot.png
-│   ├── 2023-08-16-142737_1920x1080_scrot.png
-│   ├── 2023-08-31-144811_1920x1080_scrot.png
-│   ├── 2023-08-31-151032_1920x1080_scrot.png
-│   ├── 2023-09-02-092155_1920x1080_scrot.png
-│   ├── 2023-09-02-124353_1920x1080_scrot.png
-│   ├── 2023-09-02-182225_1920x1080_scrot.png
-│   ├── 2023-09-02-183306_1920x1080_scrot.png
-│   ├── 2023-09-13-201424_1920x1080_scrot.png
-│   ├── 2023-10-09-204728_1920x1080_scrot.png
-│   ├── 2023-10-28-231807_1920x1080_scrot.png
-│   ├── 2023-10-28-232317_1920x1080_scrot.png
-│   ├── 2023-11-01-214002_1920x1080_scrot.png
-│   ├── 2023-11-02-153647_1920x1080_scrot.png
-│   ├── 2023-11-06-191309_1920x1080_scrot.png
-│   ├── 2023-11-15-124912_1920x1080_scrot.png
-│   ├── 2023-11-15-232204_1920x1080_scrot.png
-│   ├── 2023-11-15-232237_1920x1080_scrot.png
-│   ├── 2023-11-17-230806_1920x1080_scrot.png
-│   ├── 2023-11-18-171830_1920x1080_scrot.png
-│   ├── 2023-11-19-141751_1920x1080_scrot.png
-│   ├── 2023-11-19-141810_1920x1080_scrot.png
-│   ├── 2023-11-19-141939_1920x1080_scrot.png
-│   ├── 2023-11-20-185526_1920x1080_scrot.png
-│   ├── 2023-11-25-145127_1920x1080_scrot.png
-│   ├── 2023-11-25-205245_1920x1080_scrot.png
-│   ├── 2023-11-25-212907_1920x1080_scrot.png
-│   ├── 2023-11-26-104940_1920x1080_scrot.png
-│   ├── 2023-11-26-123742_1920x1080_scrot.png
-│   ├── 2023-11-26-150909_1920x1080_scrot.png
-│   ├── 2023-11-26-170147_1920x1080_scrot.png
-│   ├── 2023-11-26-172551_1920x1080_scrot.png
-│   ├── 2023-11-26-173921_1920x1080_scrot.png
-│   ├── 2023-11-26-173927_1920x1080_scrot.png
-│   ├── 2023-11-26-190027_1920x1080_scrot.png
-│   ├── 2023-11-29-095602_1920x1080_scrot.png
-│   ├── 2023-11-30-191409_1920x1080_scrot.png
-│   ├── 2023-12-01-211052_1920x1080_scrot.png
-│   ├── 2023-12-01-212902_1920x1080_scrot.png
-│   ├── 2023-12-01-213606_1920x1080_scrot.png
-│   ├── 2023-12-01-214226_1920x1080_scrot.png
-│   ├── 2023-12-01-214716_1920x1080_scrot.png
-│   ├── 2023-12-01-215033_1920x1080_scrot.png
-│   ├── 2023-12-01-215409_1920x1080_scrot.png
-│   ├── 2023-12-01-215445_1920x1080_scrot.png
-│   ├── 2023-12-01-215901_1920x1080_scrot.png
-│   ├── 2023-12-07-195535_1920x1080_scrot.png
-│   ├── 2023-12-07-195555_1920x1080_scrot.png
-│   ├── 2023-12-08-210155_1920x1080_scrot.png
-│   ├── 2023-12-13-093955_1920x1080_scrot.png
-│   ├── 2023-12-13-111305_1920x1080_scrot.png
-│   ├── 2023-12-15-001815_1920x1080_scrot.png
-│   ├── 2023-12-15-210337_1920x1080_scrot.png
-│   ├── 2023-12-17-210851_1920x1080_scrot.png
-│   ├── 2023-12-18-154636_1920x1080_scrot.png
-│   ├── 2023-12-18-154857_1920x1080_scrot.png
-│   ├── 2023-12-18-155240_1920x1080_scrot.png
-│   ├── 2023-12-18-155603_1920x1080_scrot.png
-│   ├── 2023-12-18-160546_1920x1080_scrot.png
-│   ├── 2023-12-18-215433_1920x1080_scrot.png
-│   ├── 2023-12-20-000350_1920x1080_scrot.png
-│   ├── 2023-12-21-134154_1920x1080_scrot.png
-│   ├── 2023-12-21-134406_1920x1080_scrot.png
-│   ├── 2023-12-21-151106_1920x1080_scrot.png
-│   ├── 2023-12-21-230413_1920x1080_scrot.png
-│   ├── 2023-12-24-121011_1920x1080_scrot.png
-│   ├── 2023-12-27-212428_1920x1080_scrot.png
-│   ├── 2024-01-03-173752_1920x1080_scrot.png
-│   ├── 2024-01-04-162854_1920x1080_scrot.png
-│   ├── 2024-01-04-170324_1920x1080_scrot.png
-│   ├── 2024-01-04-200415_1920x1080_scrot.png
-│   ├── 2024-01-15-161852_1920x1080_scrot.png
-│   ├── 2024-01-19-102607_1920x1080_scrot.png
-│   ├── 2024-01-20-195130_1920x1080_scrot.png
-│   ├── 2024-01-20-220321_1920x1080_scrot.png
-│   ├── 2024-01-26-143519_1920x1080_scrot.png
-│   ├── 2024-01-26-175333_1920x1080_scrot.png
-│   ├── 2024-01-27-114343_1920x1080_scrot.png
-│   ├── 2024-01-27-115914_1920x1080_scrot_000.png
-│   ├── 2024-01-27-115914_1920x1080_scrot.png
-│   ├── 2024-01-27-141227_1920x1080_scrot.png
-│   ├── 2024-01-28-114550_1920x1080_scrot.png
-│   ├── 2024-01-30-104656_1920x1080_scrot.png
-│   ├── 2024-01-30-110032_1920x1080_scrot.png
-│   ├── 2024-02-02-125004_1920x1080_scrot.png
-│   ├── 2024-02-02-230541_1920x1080_scrot.png
-│   ├── 2024-02-02-230546_1920x1080_scrot.png
-│   ├── 2024-02-02-232442_1920x1080_scrot.png
-│   ├── 2024-02-03-175853_1920x1080_scrot.png
-│   ├── 2024-02-06-121726_1920x1080_scrot.png
-│   ├── 2024-02-06-165329_1920x1080_scrot_000.png
-│   ├── 2024-02-06-165329_1920x1080_scrot.png
-│   ├── 2024-02-07-190920_1920x1080_scrot.png
-│   ├── 2024-02-08-135847_1920x1080_scrot.png
-│   ├── 2024-02-09-110050_1920x1080_scrot.png
-│   ├── 2024-02-10-222437_1920x1080_scrot.png
-│   ├── 2024-02-10-234354_1920x1080_scrot.png
-│   ├── 2024-02-11-102520_1920x1080_scrot.png
-│   ├── 2024-02-11-102525_1920x1080_scrot.png
-│   ├── 2024-02-11-103441_1920x1080_scrot.png
-│   ├── 2024-02-11-112549_1920x1080_scrot.png
-│   ├── 2024-02-11-233955_1920x1080_scrot.png
-│   ├── 2024-02-11-235008_1920x1080_scrot.png
-│   ├── 2024-02-12-182733_1920x1080_scrot.png
-│   ├── 2024-02-13-205018_1920x1080_scrot.png
-│   ├── 2024-02-13-233642_1920x1080_scrot.png
-│   ├── 2024-02-14-181433_1920x1080_scrot.png
-│   ├── 2024-02-14-191058_1920x1080_scrot.png
-│   ├── 2024-02-16-192649_1920x1080_scrot.png
-│   ├── 2024-02-17-190315_1920x1080_scrot.png
-│   ├── 2024-02-19-141241_1920x1080_scrot.png
-│   ├── 2024-02-19-141706_1920x1080_scrot.png
-│   ├── 2024-02-20-190357_1920x1080_scrot.png
-│   ├── 2024-02-20-190405_1920x1080_scrot.png
-│   ├── 2024-02-22-151520_1920x1080_scrot.png
-│   ├── 2024-02-22-154828_1920x1080_scrot.png
-│   ├── 2024-02-22-171746_1920x1080_scrot.png
-│   ├── 2024-02-22-175123_1920x1080_scrot.png
-│   ├── 2024-02-22-182405_1920x1080_scrot.png
-│   ├── 2024-02-22-182745_1920x1080_scrot.png
-│   ├── 2024-02-23-005807_1920x1080_scrot.png
-│   ├── 2024-02-23-115913_1920x1080_scrot.png
-│   ├── 2024-02-24-192245_1920x1080_scrot.png
-│   ├── 2024-02-26-134729_1920x1080_scrot.png
-│   ├── 2024-02-26-163947_1920x1080_scrot.png
-│   ├── 2024-02-26-164126_1920x1080_scrot.png
-│   ├── 2024-02-26-182956_1920x1080_scrot.png
-│   ├── 2024-02-27-194328_1920x1080_scrot.png
-│   ├── 2024-02-27-201532_1920x1080_scrot.png
-│   ├── 2024-02-28-162601_1920x1080_scrot.png
-│   ├── 2024-02-29-140131_1920x1080_scrot.png
-│   ├── 2024-03-01-192033_1920x1080_scrot.png
-│   ├── 2024-03-01-230307_1920x1080_scrot.png
-│   ├── 2024-03-02-140940_1920x1080_scrot.png
-│   ├── 2024-03-04-205339_1920x1080_scrot.png
-│   ├── 2024-03-09-181101_1920x1080_scrot.png
-│   ├── 2024-03-09-233442_1920x1080_scrot.png
-│   ├── 2024-03-10-144154_1920x1080_scrot.png
-│   ├── 2024-03-10-144720_1920x1080_scrot.png
-│   ├── 2024-03-14-153553_1920x1080_scrot.png
-│   ├── 2024-03-14-162646_1920x1080_scrot.png
-│   ├── 2024-03-17-180805_1920x1080_scrot.png
-│   ├── 2024-03-17-181001_1920x1080_scrot.png
-│   ├── 2024-03-18-184441_1920x1080_scrot.png
-│   ├── 2024-03-21-133527_1920x1080_scrot.png
-│   ├── 2024-03-24-121623_1920x1080_scrot.png
-│   ├── 2024-03-24-122638_1920x1080_scrot.png
-│   ├── 2024-03-24-122824_1920x1080_scrot.png
-│   ├── 2024-03-24-122828_1920x1080_scrot.png
-│   ├── 2024-03-25-191102_1920x1080_scrot.png
-│   ├── 2024-03-26-100653_1920x1080_scrot.png
-│   ├── 2024-03-27-193555_1920x1080_scrot.png
-│   ├── 2024-03-27-193921_1920x1080_scrot.png
-│   ├── 2024-03-28-152155_1920x1080_scrot.png
-│   ├── 2024-03-28-214523_1920x1080_scrot.png
-│   ├── 2024-03-28-224723_1920x1080_scrot.png
-│   ├── 2024-03-28-225011_1920x1080_scrot.png
-│   ├── 2024-03-29-235426_1920x1080_scrot.png
-│   ├── 2024-03-30-133302_1920x1080_scrot.png
-│   ├── 2024-03-30-222429_1920x1080_scrot.png
-│   ├── 2024-03-31-000555_1920x1080_scrot.png
-│   ├── 2024-03-31-231625_1920x1080_scrot.png
-│   ├── 2024-04-01-143325_1920x1080_scrot.png
-│   ├── 2024-04-03-145414_1920x1080_scrot.png
-│   ├── 2024-04-03-215507_1920x1080_scrot.png
-│   ├── 2024-04-03-232608_1920x1080_scrot.png
-│   ├── 2024-04-08-161121_1920x1080_scrot.png
-│   ├── 2024-04-09-100603_1920x1080_scrot.png
-│   ├── 2024-04-10-001909_1920x1080_scrot.png
-│   ├── 2024-04-10-160135_1920x1080_scrot.png
-│   ├── 2024-04-12-011614_1920x1080_scrot.png
-│   ├── 2024-04-20-121422_1920x1080_scrot.png
-│   ├── 2024-04-20-200940_1920x1080_scrot.png
-│   ├── 2024-04-21-222148_1920x1080_scrot.png
-│   ├── 2024-04-22-011342_1920x1080_scrot.png
-│   ├── 2024-04-23-224244_1920x1080_scrot.png
-│   ├── 2024-04-23-225444_1920x1080_scrot.png
-│   ├── 2024-04-23-225956_1920x1080_scrot.png
-│   ├── 2024-04-23-230035_1920x1080_scrot.png
-│   ├── 2024-04-25-234254_1920x1080_scrot.png
-│   ├── 2024-04-25-234302_1920x1080_scrot.png
-│   ├── 2024-04-25-235041_1920x1080_scrot.png
-│   ├── 2024-04-26-000735_1920x1080_scrot.png
-│   ├── 2024-04-26-203328_1920x1080_scrot.png
-│   ├── 2024-04-27-004054_1920x1080_scrot.png
-│   ├── 2024-04-27-004104_1920x1080_scrot.png
-│   ├── 2024-04-27-004628_1920x1080_scrot.png
-│   ├── 2024-04-27-005342_1920x1080_scrot.png
-│   ├── 2024-04-27-005532_1920x1080_scrot.png
-│   ├── 2024-04-27-005640_1920x1080_scrot.png
-│   ├── 2024-04-27-005917_1920x1080_scrot.png
-│   ├── 2024-04-27-005941_1920x1080_scrot.png
-│   ├── 2024-04-27-010455_1920x1080_scrot.png
-│   ├── 2024-04-27-011115_1920x1080_scrot.png
-│   ├── 2024-04-27-011202_1920x1080_scrot.png
-│   ├── 2024-04-28-103843_1920x1080_scrot.png
-│   ├── 2024-05-03-192545_1920x1080_scrot.png
-│   ├── 2024-05-03-230711_1920x1080_scrot.png
-│   ├── 2024-05-07-190623_1920x1080_scrot.png
-│   ├── 2024-05-07-195549_1920x1080_scrot.png
-│   ├── 2024-05-07-202809_1920x1080_scrot.png
-│   ├── 2024-05-08-140623_1920x1080_scrot.png
-│   ├── 2024-05-08-202431_1920x1080_scrot.png
-│   ├── 2024-05-09-103429_1920x1080_scrot.png
-│   ├── 2024-05-09-113039_1920x1080_scrot.png
-│   ├── 2024-05-09-113120_1920x1080_scrot.png
-│   ├── 2024-05-10-155953_1920x1080_scrot.png
-│   ├── 2024-05-10-160021_1920x1080_scrot.png
-│   ├── 2024-05-10-195223_1920x1080_scrot.png
-│   ├── 2024-05-11-172340_1920x1080_scrot.png
-│   ├── 2024-05-11-190006_1920x1080_scrot.png
-│   ├── 2024-05-13-002340_1920x1080_scrot.png
-│   ├── 2024-05-13-192442_1920x1080_scrot.png
-│   ├── 2024-05-17-010442_1920x1080_scrot.png
-│   ├── 2024-05-21-213728_1920x1080_scrot.png
-│   ├── 2024-05-21-215451_1920x1080_scrot.png
-│   ├── 2024-05-26-222234_1920x1080_scrot.png
-│   ├── 2024-05-26-230807_1920x1080_scrot.png
-│   ├── 2024-05-31-110246_1920x1080_scrot.png
-│   ├── 2024-06-02-094439_1920x1080_scrot.png
-│   ├── 2024-06-02-094446_1920x1080_scrot.png
-│   ├── 2024-06-04-121113_1920x1080_scrot.png
-│   ├── 2024-06-09-172938_1920x1080_scrot.png
-│   ├── 2024-06-09-173006_1920x1080_scrot.png
-│   ├── 2024-06-09-175341_1920x1080_scrot.png
-│   ├── 2024-06-10-222956_1920x1080_scrot.png
-│   ├── 2024-07-06-153057_1920x1080_scrot.png
-│   ├── 2024-07-06-153100_1920x1080_scrot.png
-│   ├── 2024-07-07-105216_1920x1080_scrot.png
-│   ├── 2024-07-07-172701_1920x1080_scrot.png
-│   ├── 2024-07-07-191736_1920x1080_scrot.png
-│   ├── 2024-07-09-084534_1920x1080_scrot.png
-│   ├── 2024-07-09-084537_1920x1080_scrot.png
-│   ├── 2024-07-09-103313_1920x1080_scrot.png
-│   ├── 2024-07-12-124349_1920x1080_scrot.png
-│   ├── 2024-07-15-162527_1920x1080_scrot.png
-│   ├── 2024-07-15-162820_1920x1080_scrot.png
-│   ├── 2024-07-15-202932_1920x1080_scrot.png
-│   ├── 2024-07-16-201259_1920x1080_scrot.png
-│   ├── 2024-07-16-203910_1920x1080_scrot.png
-│   ├── 2024-07-16-204437_1920x1080_scrot.png
-│   ├── 2024-07-16-210435_1920x1080_scrot.png
-│   ├── 2024-07-16-211134_1920x1080_scrot.png
-│   ├── 2024-07-16-235501_1920x1080_scrot.png
-│   ├── 2024-07-16-235804_1920x1080_scrot.png
-│   ├── 2024-07-18-182851_1920x1080_scrot.png
-│   ├── 2024-07-18-185725_1920x1080_scrot.png
-│   ├── 2024-07-18-193734_1920x1080_scrot.png
-│   ├── 2024-07-29-210744_1920x1080_scrot.png
-│   ├── 2024-07-31-160130_1920x1080_scrot.png
-│   ├── 2024-07-31-191223_1920x1080_scrot.png
-│   ├── 2024-08-01-165804_1920x1080_scrot.png
-│   ├── 2024-08-05-204906_1920x1080_scrot.png
-│   ├── 2024-08-08-012030_1920x1080_scrot.png
-│   ├── 2024-08-09-101833_1920x1080_scrot.png
-│   ├── 2024-08-09-151217_1920x1080_scrot.png
-│   ├── 2024-08-11-030220_1920x1080_scrot.png
-│   ├── 2024-08-13-174125_1920x1080_scrot.png
-│   ├── 2024-08-15-211415_1920x1080_scrot.png
-│   ├── 2024-08-21-163600_1920x1080_scrot.png
-│   ├── 2024-08-24-142931_1920x1080_scrot.png
-│   ├── 2024-08-28-205532_1920x1080_scrot.png
-│   ├── 2024-08-28-205638_1920x1080_scrot.png
-│   ├── 2024-08-28-205644_1920x1080_scrot.png
-│   ├── 2024-08-28-211216_1920x1080_scrot.png
-│   ├── 2024-08-28-211222_1920x1080_scrot.png
-│   ├── 2024-08-28-211233_1920x1080_scrot.png
-│   ├── 2024-08-28-212752_1920x1080_scrot.png
-│   ├── 2024-08-28-212801_1920x1080_scrot.png
-│   ├── 2024-08-28-212817_1920x1080_scrot.png
-│   ├── 2024-08-28-212833_1920x1080_scrot.png
-│   ├── 2024-08-28-212852_1920x1080_scrot.png
-│   ├── 2024-08-28-212905_1920x1080_scrot.png
-│   ├── 2024-08-28-212909_1920x1080_scrot.png
-│   ├── 2024-08-28-212921_1920x1080_scrot.png
-│   ├── 2024-08-28-212929_1920x1080_scrot.png
-│   ├── 2024-08-28-212935_1920x1080_scrot.png
-│   ├── 2024-08-28-212951_1920x1080_scrot.png
-│   ├── 2024-08-28-213039_1920x1080_scrot.png
-│   ├── 2024-08-28-213044_1920x1080_scrot.png
-│   ├── 2024-08-28-213052_1920x1080_scrot.png
-│   ├── 2024-08-28-213056_1920x1080_scrot.png
-│   ├── 2024-09-03-111822_1920x1080_scrot.png
-│   ├── 2024-09-08-201229_1920x1080_scrot.png
-│   ├── 2024-09-08-204822_1920x1080_scrot.png
-│   ├── 2024-09-08-212324_1920x1080_scrot.png
-│   ├── 2024-09-08-212422_1920x1080_scrot.png
-│   ├── 2024-09-09-212647_1920x1080_scrot.png
-│   ├── 2024-09-12-203310_1920x1080_scrot.png
-│   ├── 2024-09-16-122848_1920x1080_scrot.png
-│   ├── 2024-09-19-142035_1920x1080_scrot.png
-│   ├── 2024-09-19-142055_1920x1080_scrot.png
-│   ├── 2024-09-25-112757_1920x1080_scrot.png
-│   ├── 2024-09-25-185837_1920x1080_scrot.png
-│   ├── 2024-09-25-202023_1920x1080_scrot.png
-│   ├── 2024-09-26-161750_1920x1080_scrot.png
-│   ├── 2024-09-26-161753_1920x1080_scrot.png
-│   ├── 2024-09-28-205156_1920x1080_scrot.png
-│   ├── 2024-09-28-215705_1920x1080_scrot.png
-│   ├── 2024-10-03-202717_1920x1080_scrot.png
-│   ├── 2024-10-03-205421_1920x1080_scrot.png
-│   ├── 2024-10-05-150611_1920x1080_scrot.png
-│   ├── 2024-10-05-180024_1920x1080_scrot.png
-│   ├── 2024-10-05-190423_1920x1080_scrot.png
-│   ├── 2024-10-06-101921_1920x1080_scrot.png
-│   ├── 2024-10-06-125553_1920x1080_scrot.png
-│   ├── 2024-10-12-134843_1920x1080_scrot.png
-│   ├── 2024-10-12-143635_1920x1080_scrot.png
-│   ├── 2024-10-21-012311_1920x1080_scrot.png
-│   ├── 2024-10-21-013249_1920x1080_scrot.png
-│   ├── 2024-10-21-014516_1920x1080_scrot.png
-│   ├── 2024-10-21-020846_1920x1080_scrot.png
-│   ├── 2024-10-21-080519_1920x1080_scrot.png
-│   ├── 2024-10-27-115523_1920x1080_scrot.png
-│   ├── 2024-10-30-092341_1920x1080_scrot.png
-│   ├── 2024-10-30-101956_1920x1080_scrot.png
-│   ├── 2024-10-31-112927_1920x1080_scrot.png
-│   ├── 2024-11-01-185538_1920x1080_scrot.png
-│   ├── 2024-11-06-181642_1920x1080_scrot.png
-│   ├── 2024-11-07-004103_1920x1080_scrot.png
-│   ├── 2024-11-07-004126_1920x1080_scrot.png
-│   ├── 2024-11-09-132130_1920x1080_scrot.png
-│   ├── 2024-11-09-174613_1920x1080_scrot.png
-│   ├── 2024-11-11-011112_1920x1080_scrot.png
-│   ├── 2024-11-11-011543_1920x1080_scrot.png
-│   ├── 2024-11-11-020435_1920x1080_scrot.png
-│   ├── 2024-11-11-020755_1920x1080_scrot.png
-│   ├── 2024-11-11-090224_1920x1080_scrot.png
-│   ├── 2024-11-12-011426_1920x1080_scrot.png
-│   ├── 2024-11-12-012548_1920x1080_scrot.png
-│   ├── 2024-11-13-131236_1920x1080_scrot.png
-│   ├── 2024-11-13-192453_1920x1080_scrot.png
-│   ├── 2024-11-13-193738_1920x1080_scrot.png
-│   ├── 2024-11-13-194530_1920x1080_scrot.png
-│   ├── 2024-11-13-194657_1920x1080_scrot.png
-│   ├── 2024-11-13-194935_1920x1080_scrot.png
-│   ├── 2024-11-19-111139_1920x1080_scrot.png
-│   ├── 2024-11-19-112745_1920x1080_scrot.png
-│   ├── 2024-11-21-140139_1920x1080_scrot.png
-│   ├── 2024-11-21-141837_1920x1080_scrot.png
-│   ├── 2024-11-22-144033_1920x1080_scrot.png
-│   ├── 2024-11-22-154040_1920x1080_scrot.png
-│   ├── 2024-11-22-154044_1920x1080_scrot.png
-│   ├── 2024-11-22-221357_1920x1080_scrot.png
-│   ├── 2024-11-22-230442_1920x1080_scrot.png
-│   ├── 2024-11-25-013049_1920x1080_scrot.png
-│   ├── 2024-11-25-015825_1920x1080_scrot.png
-│   ├── 2024-11-25-151054_1920x1080_scrot.png
-│   ├── 2024-11-25-173154_1920x1080_scrot.png
-│   ├── 2024-11-25-213137_1920x1080_scrot.png
-│   ├── 2024-11-25-214252_1920x1080_scrot.png
-│   ├── 2024-11-25-220642_1920x1080_scrot.png
-│   ├── 2024-11-25-220949_1920x1080_scrot.png
-│   ├── 2024-11-25-234340_1920x1080_scrot.png
-│   ├── 2024-11-25-234823_1920x1080_scrot.png
-│   ├── 2024-11-25-235558_1920x1080_scrot.png
-│   ├── 2024-11-26-004320_1920x1080_scrot.png
-│   ├── 2024-11-26-004747_1920x1080_scrot.png
-│   ├── 2024-11-30-221548_1920x1080_scrot.png
-│   ├── 2024-11-30-235619_1920x1080_scrot.png
-│   ├── 2024-12-01-000609_1920x1080_scrot.png
-│   ├── 2024-12-01-000729_1920x1080_scrot.png
-│   ├── 2024-12-01-001451_1920x1080_scrot.png
-│   ├── 2024-12-01-001647_1920x1080_scrot.png
-│   ├── 2024-12-01-002023_1920x1080_scrot.png
-│   ├── 2024-12-01-020332_1920x1080_scrot.png
-│   ├── 2024-12-01-135143_1920x1080_scrot.png
-│   ├── 2024-12-02-232351_1920x1080_scrot.png
-│   ├── 2024-12-02-232355_1920x1080_scrot.png
-│   ├── 2024-12-02-232358_1920x1080_scrot.png
-│   ├── 2024-12-04-145819_1920x1080_scrot.png
-│   ├── 2024-12-05-160651_1920x1080_scrot.png
-│   ├── 2024-12-11-141625_1920x1080_scrot.png
-│   ├── 2024-12-11-141630_1920x1080_scrot.png
-│   ├── 2024-12-14-220921_1920x1080_scrot.png
-│   ├── 2024-12-15-161328_1920x1080_scrot.png
-│   ├── 2024-12-20-031912_1920x1080_scrot.png
-│   ├── 2024-12-26-204817_1920x1080_scrot.png
-│   ├── 2024-12-28-014324_1920x1080_scrot.png
-│   ├── 2024-12-31-105734_1920x1080_scrot.png
-│   ├── 2025-01-02-153611_1920x1080_scrot.png
-│   ├── 2025-01-11-214446_1920x1080_scrot.png
-│   ├── 2025-01-13-134509_1920x1080_scrot.png
-│   ├── 2025-01-13-134619_1920x1080_scrot.png
-│   ├── 2025-01-13-184259_1920x1080_scrot.png
-│   ├── 2025-01-13-232148_1920x1080_scrot.png
-│   ├── 2025-01-17-193103_1920x1080_scrot.png
-│   ├── 2025-01-18-040800_1920x1080_scrot.png
-│   ├── 2025-01-18-041224_1920x1080_scrot.png
-│   ├── 2025-01-18-043104_1920x1080_scrot.png
-│   ├── 2025-01-18-043137_1920x1080_scrot.png
-│   ├── 2025-01-18-043603_1920x1080_scrot.png
-│   ├── 2025-01-18-053937_1920x1080_scrot.png
-│   ├── 2025-01-18-150501_1920x1080_scrot.png
-│   ├── 2025-01-18-150549_1920x1080_scrot.png
-│   ├── 2025-01-23-164758_1920x1080_scrot_000.png
-│   ├── 2025-01-23-164758_1920x1080_scrot.png
-│   ├── 2025-01-27-183658_1920x1080_scrot.png
-│   ├── 2025-01-29-201544_1920x1080_scrot.png
-│   ├── 2025-02-01 14.45 TINY SCANNER.pdf
-│   ├── 2025-02-02-231308_1920x1080_scrot.png
-│   ├── 2025-02-03-124322_1920x1080_scrot.png
-│   ├── 2025-02-03-125049_1920x1080_scrot.png
-│   ├── 2025-02-03-125519_1920x1080_scrot.png
-│   ├── 2025-02-03-130735_1920x1080_scrot.png
-│   ├── 2025-02-03-134944_835x323_scrot.png
-│   ├── 2025-02-03-135115_907x623_scrot.png
-│   ├── 2025-02-03-135212_899x649_scrot.png
-│   ├── 2025-02-03-135357_888x492_scrot.png
-│   ├── 2025-02-03-135417_885x209_scrot.png
-│   ├── 2025-02-03-135446_813x307_scrot.png
-│   ├── 2025-02-03-135512_759x242_scrot.png
-│   ├── 2025-02-04-160340_1920x1080_scrot.png
-│   ├── 2025-02-05-120407_1920x1080_scrot.png
-│   ├── 2025-02-05-180322_1920x1080_scrot.png
-│   ├── 2025-02-05-183323_1920x1080_scrot.png
-│   ├── 2025-02-11-151114_1920x1080_scrot.png
-│   ├── 2025-02-11-151118_1920x1080_scrot.png
-│   ├── 2025-02-11-151119_1920x1080_scrot.png
-│   ├── 2025-02-14-130023_1920x1080_scrot.png
-│   ├── 2025-02-14-130035_1920x1080_scrot.png
-│   ├── 2025-02-14-130052_1920x1080_scrot.png
-│   ├── 2025-02-14-130055_1920x1080_scrot.png
-│   ├── 2025-02-14-131319_1920x1080_scrot.png
-│   ├── 2025-02-14-131400_1920x1080_scrot.png
-│   ├── 2025-02-14-131512_1920x1080_scrot.png
-│   ├── 2025-02-14-131559_1920x1080_scrot.png
-│   ├── 2025-02-14-131604_1920x1080_scrot.png
-│   ├── 2025-02-14-131831_1920x1080_scrot.png
-│   ├── 2025-02-24-114745_626x381_scrot.png
-│   ├── 2025-02-24-114752_656x388_scrot.png
-│   ├── 2025-02-24-114847_901x310_scrot.png
-│   ├── 2025-02-24-114852_1063x369_scrot.png
-│   ├── 2025-02-24-114901_1064x420_scrot.png
-│   ├── 2025-02-24-115134_1077x436_scrot.png
-│   ├── 2025-02-24-115157_1040x408_scrot.png
-│   ├── 2025-02-24-115300_1118x464_scrot.png
-│   ├── 2025-02-24-115307_1074x482_scrot.png
-│   ├── 2025-02-24-115617_583x230_scrot.png
-│   ├── 2025-02-24-120138_1058x228_scrot.png
-│   ├── 2025-02-24-120159_1083x232_scrot.png
-│   ├── 2025-02-24-120556_1110x237_scrot.png
-│   ├── 2025-02-24-120707_1046x221_scrot.png
-│   ├── 28z8c3mv7jad1.png
-│   ├── 2dc730f9153d45eebc6b9195039a.jpg
-│   ├── 2f33f4c192f2e223c15edd2b5caf482b.jpg
-│   ├── 2lyo32dikcrd1.webp
-│   ├── 2meirl42meirl4meirl-v0-a5pq5e3ltugd1.webp
-│   ├── 2meirl4meirl-v0-4bootsp1ec6d1.webp
-│   ├── 2meirl4meirl-v0-4sj5l3c6jrgd1.webp
-│   ├── 2meirl4meirl-v0-6w2rt17n1tgd1.webp
-│   ├── 2meirl4meirl-v0-9r9x9uuedr3d1.webp
-│   ├── 2meirl4meirl-v0-bykbrzlw5g9d1.webp
-│   ├── 2meirl4meirl-v0-f2z4a8bo90hd1.webp
-│   ├── 2meirl4meirl-v0-ff5dpvqr4d6d1.webp
-│   ├── 2meirl4meirl-v0-qluskh72rhbd1.webp
-│   ├── 2meirl4meirl-v0-r9fmhtlcnjad1.webp
-│   ├── 2meirl4meirl-v0-snkqvxb8rfld1.webp
-│   ├── 2meirl4meirl-v0-umih533zc2id1.webp
-│   ├── 2meirl4meirl-v0-vd2y93dwje2d1.webp
-│   ├── 2meirl4meirl-v0-vdzzk20uvc6d1.webp
-│   ├── 2meirl4meirl-v0-xihrwad7dj2d1.webp
-│   ├── 2meirl4meirl-v0-zec1qz5vlc3d1.webp
-│   ├── 3995.webp
-│   ├── 3cy0g408fagd1.jpeg
-│   ├── 3pwxli9ghmxd1.jpeg
-│   ├── 3wm7888mwwod1.webp
-│   ├── 406pkeuzmbsd1.jpeg
-│   ├── 4m9kbdtx15vb1.jpg
-│   ├── 56amfo.jpg
-│   ├── 58q2fx00yw4d1.jpg
-│   ├── 5bbcpjx162je1.webp
-│   ├── 5cdof9y8ejrd1.webp
-│   ├── 5d44fe2538b9b095bb7b85150dcfe213.jpg
-│   ├── 5pvb249c7hwc1.webp
-│   ├── 6ad0d08d67ac3869310e81bff4f59d5c.jpg
-│   ├── 6e24b0ab10971eb2affa91484af59161.png
-│   ├── 6e38137751daa332f1465b3385343f13.png
-│   ├── 712713.jpg
-│   ├── 7ai06jjd8fuc1.webp
-│   ├── 7gzkgilcvz3d1.webp
-│   ├── 7j82a8vwa53d1.webp
-│   ├── 7yupca1s4d2d1.webp
-│   ├── 8006-nooooo.png
-│   ├── 8343abe8fb00bab9b7e2c00774ffbae2.jpg
-│   ├── 87a97fa3078c8751a0eb51df5c35d07a.jpg
-│   ├── 8bx6tf7r25a21.webp
-│   ├── 8nsxcqpfx8ae1.webp
-│   ├── 90e01c91fae9609bf508f5b0b52d0124.webp
-│   ├── 9pq7n7s0su1b1.jpg
-│   ├── a446b514196b50e6ec95f09182790113.jpg
-│   ├── a91ekEygg5Y.jpg
-│   ├── a-cat-and-a-lowercase-cat-v0-kdm2k46qrhxd1.webp
-│   ├── according-to-a-study-the-fastest-human-civilization-can-v0-cneh6npegwbd1.webp
-│   ├── a-cheetah-and-her-cheeto-v0-8kffxmve7lkd1.webp
-│   ├── a-cute-meteorite-v0-8f2i8y4z12cd1.webp
-│   ├── aeebadc1-1e11-81e2-0d9a-fd05ecc77f30.jpeg
-│   ├── aFd5yDQX-_c2.jpg
-│   ├── aFd5yDQX-_c.jpg
-│   ├── akm7y8c0u93b1.png
-│   ├── Albino_remake_concept.webp
-│   ├── AlbinoTradeHeadshot.webp
-│   ├── all-i-need-v0-7rbgss2xpe6d1.webp
-│   ├── a-low-effort-original-meme-v0-41igfn8g7ggd1.webp
-│   ├── always-picks-the-weirdest-spots-v0-y9ejmtejpsid1.webp
-│   ├── am-i-sexy-yet-v0-7rfk6aa0ubtc1.webp
-│   ├── AM-radio-using-FET.jpg
-│   ├── and-i-mean-nobody-v0-1nsse66f44je1.webp
-│   ├── animecuddling-v0-0wu050fgl9ie1.webp
-│   ├── an-only-three-star-joke-v0-mji7n2sp7dad1.webp
-│   ├── anyone-else-seeing-just-one-eye-v0-ovy799rhtwae1.webp
-│   ├── apps.54771.63131787694667297.e786edde-5064-499d-9660-f3d7c293ceaa.jpg
-│   ├── art-by-moebius-v0-o8h0f6f63q4a1.webp
-│   ├── Athetos_cinematic2.png
-│   ├── Athetos_cinematic2.webp
-│   ├── Athetos_cinematic.webp
-│   ├── aw-yeah-that-is-why-these-cats-are-called-void-v0-d5ygpm009ygd1.webp
-│   ├── b9xb1rvvfn2d1.webp
-│   ├── baby-foxes-v0-gockxvl7o6je1.webp
-│   ├── baby-foxes-v0-ibopuvl7o6je1.webp
-│   ├── bdb1fdac541f31ef948f69b554a4062f985e058c.jpg
-│   ├── best-described-v0-rf9r9fqlb0rd1.webp
-│   ├── blursed-spongebob-v0-tmh6o4jqiscd1.webp
-│   ├── both-employees-got-fired-that-day-v0-v1cknpy0lk5d1.webp
-│   ├── broken-charging-port-there-i-fixed-it-v0-0r1lh94u1nfd1.webp
-│   ├── bros-stressed-v0-o142zix0mphd1.webp
-│   ├── But meme.jpg
-│   ├── but-we-loved-her-anyways-v0-kzn1dzaz9d2d1.webp
-│   ├── c3-1-500x500.jpg
-│   ├── c4eiazzkq6aa1.jpg
-│   ├── Caddo pepperella.jpg
-│   ├── calm-inducing-thought-indeed-v0-llrysllp126d1.webp
-│   ├── can-synchronicity-exists-without-presence-v0-nx6nkjqxwi6d1.webp
-│   ├── cant-argue-with-that-v0-2gb1opvqulhd1.webp
-│   ├── casually-approach-infinity-v0-xl331c0gr5hd1.webp
-│   ├── cat-im-speed-v0-6rlxyube9gxd1.webp
-│   ├── cations-are-pawsitive-v0-jj7mn469203d1.webp
-│   ├── cbeu6q6qa6ca1.jpg
-│   ├── cdy87kutfv0e1.jpeg
-│   ├── Chained_up_Vessel.png
-│   ├── Chained_up_Vessel.webp
-│   ├── click-clack-click-clack-heres-a-message-for-you-v0-y15ptzkeb0zc1.webp
-│   ├── CL.jpg
-│   ├── counterspell-this-shit-theurgist-bob-v0-tyfl4gr3zw1e1.webp
-│   ├── country-roast-level-v0-3pb9vra1diad1.webp
-│   ├── criss-cross-applesauce-v0-llbrcb8ewawd1.webp
-│   ├── Ctron.webp
-│   ├── Cycas.webp
-│   ├── d3f6fa8032b851199e9168f144ab6082.jpg
-│   ├── da0bf24ea2d338a20c9225c7568c29ab.jpg
-│   ├── dandelions-rules-v0-p4gkaowg72ed1.webp
-│   ├── darkness-keeps-whats-behind-hidden-v0-e949op496hld1.webp
-│   ├── d-d-is-my-anger-management-v0-9h30mf0sdf2d1.webp
-│   ├── ded.webp
-│   ├── description-image.avif
-│   ├── dij0ju87i4rd1.webp
-│   ├── dmitry-skolzki-robert-cunninghan.jpg
-│   ├── dmitry-skolzki-stretch.jpg
-│   ├── does-anyone-need-two-dogs-v0-gpjhb4sn76ba1.webp
-│   ├── does-it-work-though-v0-p1f6tkptev5d1.webp
-│   ├── does-my-hand-still-feel-familiar-in-yours-v0-s5652e6b0pnd1.webp
-│   ├── ducknana-v0-egm2rotq3ohd1.webp
-│   ├── Dude1_l.png
-│   ├── dzxis4tk1xge1.webp
-│   ├── e1dx82c7w1kd1.webp
-│   ├── e7172c0bfb2b4c1ebac6d9baccc0b5e7.jpeg
-│   ├── e8bd39a405d364ffecfe2cc6454e6efd.jpg
-│   ├── easy-indeed-v0-64h8wwqnvc4d1.webp
-│   ├── ekezgg1u3k9d1.webp
-│   ├── ElsenovaRoom.webp
-│   ├── emsonk377idb1.jpg
-│   ├── Ena_Dream_BBQ_animation.webp
-│   ├── end.jpg
-│   ├── everything-for-mission-and-world-peace-v0-yz73zp4wkvhe1.webp
-│   ├── explain-please-v0-anvuke4kjzqd1.webp
-│   ├── Fern_Frieren_Mage_Magic_Butterflies.jpg
-│   ├── fh4v20u8972e1.webp
-│   ├── forthebetterright.webp
-│   ├── found-this-on-my-pc-took-me-a-second-v0-29n5p86co5rd1.webp
-│   ├── from-an-internal-site-at-work-v0-kl3zi33srfhd1.webp
-│   ├── fw29808wobj71.png
-│   ├── fwy7u2pb5xga1.jpg
-│   ├── GbrmXTOlTlQ.jpg
-│   ├── get-noitad-v0-jclenozsvv3d1.webp
-│   ├── give-it-for-free-v0-5d6vkpibr8qd1.webp
-│   ├── guessflexibilitywasnotarequirement-v0-jeqyy85vceld1.webp
-│   ├── hakunamatata-v0-hgvenax4fzdd1.webp
-│   ├── Half-Life-2.jpg
-│   ├── halfway-trained-v0-0a0kfio1v32d1.webp
-│   ├── heal-thy-burgers-v0-7qdq9pa0xp1d1.webp
-│   ├── he-can-do-anything-v0-oj5y8ngfs8gd1.webp
-│   ├── he-hopes-that-one-day-therell-be-another-v0-fjn1h80dj6od1.webp
-│   ├── he-just-got-game-ended-v0-z9xatxchdy5d1.webp
-│   ├── helping-out-v0-bn7u5wl13z5d1.webp
-│   ├── help-lol-v0-foyemdo8aghd1.webp
-│   ├── here-are-three-needle-felted-white-bats-v0-83fl7fktk5ge1.webp
-│   ├── hes-not-wrong-v0-ix7orly1lhkd1.webp
-│   ├── hey-look-what-i-can-do-v0-jxmx48ypon5d1.webp
-│   ├── his-entire-life-will-become-a-quote-v0-4mzrzkw5hmhd1.webp
-│   ├── honestly-so-true-v0-2i1gaiogn5rd1.webp
-│   ├── how-are-we-feeling-today-v0-egowyq488gzc1.webp
-│   ├── how-is-this-possible-v0-ace7qval5brd1.webp
-│   ├── how-it-really-happened-v0-l9oxswisa84d1.webp
-│   ├── howiwrotemyachievementonresume-v0-8hjy08saq6id1.webp
-│   ├── hpfbh2z7lkg91.jpg
-│   ├── hRyfRsJOL0k_a.jpg
-│   ├── hRyfRsJOL0k.jpg
-│   ├── hw8itptkx0md1.webp
-│   ├── hywd9z1vsued1.webp
-│   ├── i39zlu9e8yq91.jpg
-│   ├── i-am-in-favor-of-this-v0-l4iast8u8jce1.webp
-│   ├── i-cant-think-of-a-title-i-just-needed-to-post-this-v0-q6h8z4a12qxd1.webp
-│   ├── ill-see-you-all-over-there-v0-11kc2u48dy5d1.webp
-│   ├── images.jpg
-│   ├── images.png
-│   ├── i-make-the-same-face-when-i-eat-something-extremely-sour-v0-gefbuavwb2fd1.webp
-│   ├── im-stuck-in-a-limbo-where-i-cant-live-but-dont-have-the-v0-2zq8wuiymepd1.webp
-│   ├── inaccurate-physics-v0-sbifr9xuq8j91.webp
-│   ├── index.jpg
-│   ├── Indra-Rusalka.png
-│   ├── Indra-Rusalka.webp
-│   ├── insomnia-has-made-a-comeback-by-only-3-days-and-im-already-v0-qjfvyznzyxfd1.webp
-│   ├── invasion-of-privacy-v0-uc38ztcxy34d1.webp
-│   ├── i-put-the-lasagna-in-at-120-v0-tic55uthnl1d1.webp
-│   ├── i-see-a-stoned-bear-waving-v0-e4ecicu4xiee1.webp
-│   ├── is-in-my-blood-v0-vlz396wwqe3d1.webp
-│   ├── is-this-a-bad-idea-v0-lkq0jsrcjvid1.webp
-│   ├── i-still-dont-know-v0-z9vepomqrj6d1.webp
-│   ├── it-makes-me-feel-so-powerful-v0-9i5ng9nihvzc1.webp
-│   ├── i-try-again-v0-xzvgw6se0ghe1.webp
-│   ├── i.webp
-│   ├── jbqt61kzcdrd1.webp
-│   ├── '.jpg
-│   ├── jwqtm4d43agb1.jpg
-│   ├── lain.jpg
-│   ├── lain.webp
-│   ├── latest.jpg
-│   ├── least-bloody-drukhari-romance-be-like-v0-wqruax2ga13d1.webp
-│   ├── lion-king-lab-edition-v0-2qa0i4fui1hd1.webp
-│   ├── ljquuuak68kb1.jpg
-│   ├── lm386-1080x617.png
-│   ├── Lv2-YLRxFMI.jpg
-│   ├── m2-res_260p.mp4
-│   ├── m2-res_414p.mp4
-│   ├── m2-res_450p.mp4
-│   ├── m2-res_480p.mp4
-│   ├── m2-res_500p.mp4
-│   ├── m2-res_600p.mp4
-│   ├── m2-res_636p.mp4
-│   ├── m2-res_686p.mp4
-│   ├── m2-res_852p.mp4
-│   ├── m2-res_854p.mp4
-│   ├── marcille-caught-holding-basilisk-egg-delicious-in-dungeon-episode-2.webp
-│   ├── math-major-meme-v0-w4ij92dkhjsd1.webp
-│   ├── me-and-gf-featurd-in-local-newspaper-v0-0jl9p1xp5hae1.webp
-│   ├── meme.png
-│   ├── metal-monday-v0-bzu7u6s55ixd1.webp
-│   ├── mina.png
-│   ├── missy.webp
-│   ├── mliodvtobq5d1.webp
-│   ├── Monster_boss_alchemist_stand_full.webp
-│   ├── mouldy-rye-bread-hits-different-v0-nmweqh2vm7cd1.webp
-│   ├── napping-v0-60dl7itek06d1.webp
-│   ├── need-a-potato-related-name-v0-43pqpukpnzlc1.webp
-│   ├── never-miss-single-moment-to-say-things-like-this-to-your-v0-8e4sdvcrenbe1.webp
-│   ├── nobody-wants-pup-v0-s040ppanhmkd1.webp
-│   ├── nooooooooo-v0-vo0bjzk7ycmd1.webp
-│   ├── nothing-to-say-it-v0-k1adxerdkfhd1.webp
-│   ├── oh-harry-didnt-you-know-v0-go79gka12bqd1.webp
-│   ├── ohi4lwz3bjwd1.png
-│   ├── oliidzbh6jrd1.webp
-│   ├── olm97wq6h24d1.webp
-│   ├── one-eyed-dog-v0-9jrr7cl0yaae1.webp
-│   ├── one-router-to-rule-them-all-v0-ko61xuvlujkd1.webp
-│   ├── optimistic-vs-pessimistic-v0-c1cay7y0hpid1.webp
-│   ├── p8pio5i2gu9e1.webp
-│   ├── paranormal-v0-1lana54h8krd1.webp
-│   ├── PC.jpg
-│   ├── PE.jpg
-│   ├── person-whats-your-gender-me-science-v0-ukw31kr6dp2d1.webp
-│   ├── PG.jpg
-│   ├── pjvpnfw15d2d1.webp
-│   ├── play-it-cool-v0-psdfv1rqb9zc1.webp
-│   ├── please-help-him-he-have-a-date-v0-j4nioohlfzod1.webp
-│   ├── Portia labiata.jpg
-│   ├── Portia labiata ава.jpg
-│   ├── PS.jpg
-│   ├── qxx3lwzw5apb1.jpg
-│   ├── Radial-symmetry-body-point-vertebrates-groups-animals.webp
-│   ├── release-your-inner-frogge-v0-1gscz90zwdqd1.webp
-│   ├── remote-hugs-be-like-v0-51ny0zrdzmbe1.webp
-│   ├── respect-v1-ultrakill-v0-zNlNQ_ArhFqSevJpXxeoSfMFuxPj8WQfQRgpi7EV5YI.webp
-│   ├── restaurant-framed-a-hole-someone-punched-in-the-mens-v0-41b30jouf1id1.webp
-│   ├── ris._1_86.jpg
-│   ├── rn5u91o7dcbd1.webp
-│   ├── S4e25_Simon_consoling_little_Marceline.png
-│   ├── S4e25_Simon_consoling_little_Marceline.webp
-│   ├── SafeSurf.png
-│   ├── same-sis-v0-geiwjwyr9nad1.webp
-│   ├── saw-this-pic-and-needed-to-make-this-v0-jlcbs51qgk7e1.webp
-│   ├── scale_1200.jpg
-│   ├── scale_1200.png
-│   ├── schrodingers-christ-v0-kyl3y3w2a72d1.webp
-│   ├── scissors-won-v0-wxe5a5zds54d1.webp
-│   ├── screen-0.jpg
-│   ├── self-loathing-wunk-v0-np36n08qxb5d1.webp
-│   ├── she-sleeps-like-she-works-9-5-v0-k9zbg1s3db6d1.webp
-│   ├── shosple-colupis-v0-j3aiowbwj9wd1.webp
-│   ├── silent-partnership-v0-4s4qyrq83kgd1.webp
-│   ├── slide-54.jpg
-│   ├── smack-smack-v0-bosphv0uhlde1.webp
-│   ├── snapshot.jpg
-│   ├── soma.jpg
-│   ├── something-he-missed-v0-mfsezvicsuqd1.webp
-│   ├── sorry-brian-v0-oiqm8ec3ls0e1.webp
-│   ├── so-thats-what-the-flat-earthers-where-trying-to-say-v0-aanp7atli74d1.webp
-│   ├── sqXVDHRfIIo.jpg
-│   ├── stop-giving-them-credit-v0-ewto6xni6ead1.webp
-│   ├── sufb1l601xc91.jpg
-│   ├── T6M82nP-4dU.jpg
-│   ├── Tenma_gun.webp
-│   ├── Tenth_Doctor.png
-│   ├── Tenth_Doctor.webp
-│   ├── tenth.png
-│   ├── thanks.png
-│   ├── that-feeling-v0-36cpl47tpjmd1.webp
-│   ├── thats-actually-very-clever-v0-c7f2fpt2t1fd1.webp
-│   ├── the-aussies-have-begun-emu-war-erasure-v0-w5kx1bz8lk2d1.webp
-│   ├── the-cycle-continues-v0-ivyw484vaszc1.webp
-│   ├── The_Hollow_Knight_Idle.png
-│   ├── The_Hollow_Knight_Idle.webp
-│   ├── the-important-parts-of-number-theory-at-least-in-english-v0-yuz91amuqibd1.webp
-│   ├── the-jokes-start-flying-v0-tj5bp59jnwyc1.webp
-│   ├── the-mundane-are-so-afraid-of-their-own-potential-v0-jycn45379yfd1.webp
-│   ├── the-newest-recruit-of-new-zealand-police-v0-v1vmdatqmcsd1.webp
-│   ├── theres-always-one-thing-you-dont-know-about-crows-the-v0-n2ldv2f17p2d1.webp
-│   ├── these-2-frames-captured-by-the-russian-photographer-vadim-v0-ggx73r4nb5rd1.webp
-│   ├── the-worlds-wealthiest-spider-v0-r5u600zg495d1.webp
-│   ├── they-both-were-watching-tv-i-changed-the-tv-program-v0-985fmntn7khd1.webp
-│   ├── they-said-they-wanted-a-v0-j1fwr9z1o8cd1.webp
-│   ├── theyve-made-a-cable-with-built-in-leds-its-pretty-clever-v0-boripdzgtkrd1.webp
-│   ├── thirsty-baby-elephant-v0-qnaf17ih370d1.webp
-│   ├── this-aged-very-well-v0-sinvdid0xo5d1.webp
-│   ├── this-chainsaw-will-be-very-useful-to-cut-things-v0-ltpngni98eld1.webp
-│   ├── this-gem-v0-j9sn59mfdzqd1.webp
-│   ├── this-honestly-betrayed-my-expectations-v0-bldmxsjwv26d1.webp
-│   ├── this-made-me-laugh-and-i-thank-you-for-that-because-i-v0-blcclfa2r1he1.webp
-│   ├── thought-this-fit-here-v0-a4djlposvabd1.webp
-│   ├── thought-this-might-be-appreciated-here-v0-8qvein1xx7rd1.webp
-│   ├── time-to-ask-real-questions-v0-wjic7t4sg3fd1.webp
-│   ├── Tom_Lea_-_2000_Yard_Stare.jpg
-│   ├── u5ehzs2sn7rd1.png
-│   ├── UdbmLGo1WME.jpg
-│   ├── uh-oh-i-think-weve-hit-maximum-capacity-v0-cywx8b7ehuhd1.webp
-│   ├── uhs3fkwzw7za1.png
-│   ├── v1.jpg
-│   ├── V1-mp.png
-│   ├── V1-mp.webp
-│   ├── vheiyefjjjad1.webp
-│   ├── violet-evergarden.jpg
-│   ├── VvuUu2rCpgw.jpg
-│   ├── wagpjfkfp33d1.webp
-│   ├── watch-out-ill-come-for-you-v0-4odlcof403ed1.webp
-│   ├── watch-this-mom-v0-sy7tipturmmd1.webp
-│   ├── wdz10qic69qd1.webp
-│   ├── _.webp
-│   ├── we-love-science-v0-lulmmps31j3d1.webp
-│   ├── what-do-you-think-v0-p7wesubgc0be1.webp
-│   ├── what-horrors-did-see-v0-kbefxe61qshd1.webp
-│   ├── whats-your-favorite-ice-cream-flavor-v0-bxz9euml55hd1.webp
-│   ├── when-cheat-day-is-everyday-v0-ei31p2xg42ed1.webp
-│   ├── when-uni-was-a-kitten-hes-a-big-mangy-cat-now-v0-mdpi38rnticd1.webp
-│   ├── when-you-dont-take-no-for-an-answer-v0-d546iqvzw3he1.webp
-│   ├── who-dont-v0-b0he19x8se6d1.webp
-│   ├── who-we-looking-for-again-ah-situation-v0-h579qyvdga6d1.webp
-│   ├── why-dont-you-axiomatically-define-some-bitches-v0-h8h97w9ffutb1.webp
-│   ├── why.jpg
-│   ├── why-my-arduin-not-work-v0-a1ltnfehoqv61.webp
-│   ├── wq68rp62ougd1.webp
-│   ├── wtf-is-this-v0-51ga2xifvkkd1.webp
-│   ├── wunkstronaut-v0-imkn68gpj4fd1.webp
-│   ├── wyM4E_DmYR0.jpg
-│   ├── Xf5AgYt6Wfw.jpg
-│   ├── xtalamp.gif
-│   ├── xtloqlenceld1.webp
-│   ├── yauko7i6h6kb1.webp
-│   ├── yea.jpg
-│   ├── yfgansdqahi3jq4tnwuq.png
-│   ├── yfgansdqahi3jq4tnwuq.webp
-│   ├── Ylialkemisti avatar.png
-│   ├── ynssuyj4mlka1.png
-│   ├── you-already-know-too-much-v0-w11ki49cz8cd1.webp
-│   ├── you-are-very-naughty-v0-4wwovzcx2k6d1.webp
-│   ├── you-can-find-me-in-the-trees-calling-up-to-goat-man-v0-pq091xx9sgod1.webp
-│   ├── youd-have-to-throw-it-pretty-hard-v0-fhwboae7hyod1.webp
-│   ├── Ава.jpg
-│   ├── Алита.png
-│   ├── арбуз 1.jpg
-│   ├── арбуз 2.webp
-│   ├── арбуз 3.jpg
-│   ├── Арбуз.jpg
-│   ├── Асимметрия бислоя.png
-│   ├── Биология
-│   ├── Глобальная динамика.png
-│   ├── Ёжик.webp
-│   ├── Кактус 2.jpg
-│   ├── Кактус 3.jpg
-│   ├── Кактус 4.jpg
-│   ├── Кактус.jpg
-│   ├── Кактус мем 1.jpg
-│   ├── Кактус мем 2.jpg
-│   ├── Картинки для Кати
-│   ├── Катины документы
-│   ├── Катя 1.jpg
-│   ├── Марсиль.png
-│   ├── Микроволновая пушка.webp
-│   ├── Ненасыщенность.png
-│   ├── Одинадцатый.jpg
-│   ├── Растение 1.png
-│   ├── Растение 2.png
-│   ├── Растение 3.png
-│   ├── Саговник 2.jpg
-│   ├── Саговник 3.png
-│   ├── Саговник поникающий.jpg
-│   ├── Состав.png
-│   ├── Тзинч_X.png
-│   ├── Тзинч_X.webp
-│   └── Фосфолипид.jpg
 ├── Музыка
 ├── Общедоступные
 ├── Рабочий стол
 └── Шаблоны
 
-106 directories, 1273 files
+25 directories, 14 files
+cd STM32_USART2
+l
+cd .pio/build
+l
+cd bluepill_f103c6/
+l
+st-flash write firmware.bin 0x8000
+st-flash --help
+st-info --pribe
+st-info --probe
+st-flash write firmware.bin 0x8000 
+st-flash write firmware.bin 0x08000000 
+st-flash write firmware.bin 0x08000000
+st-info --probe
+st-flash write firmware.bin 0x08000000
+st-flash erase
+st-info --probe
+st-info --probe
+st-flash erase
+st-info --probe
+st-info --probe
+st-info --probe
+st-info --probe
+st-info --probe
+st-info --probe
+st-flash erase
+st-info --probe
+st-flash write firmware.bin 0x08000000
+st-flash write firmware.bin 0x08000000
+st-info --probe
+st-flash erase
+st-flash write firmware.bin 0x08000000
+st-flash read firmware2.bin 0x08000000
+st-flash read firmware2.bin 0x08000000 k=500
+st-flash read firmware2.bin 0x08000000 500k
+st-info --probe
+st-info --probe
+st-info --probe
+st-info --probe
+st-flash read firmware2.bin 0x08000000 500k
+l
+st-info --probe
+st-info --probe
+st-info --probe
+st-info --probe
+st-info --probe
+st-info --probe
+st-info --probe
+st-info --probe
+stm32flash
+sudo pacman -S stm32flash
+sudo pamac install stm32flash
+stm32flash
+stm32flash -m
+stm32flash -u /dev/serial/by-i/usb-Silicon_Labs_CP2102_USB_to_UART_Bridge_Controller_0001-if00-port0
+stm32flash -u /dev/ttyUSB0
+stm32flash -k /dev/ttyUSB0
+stm32flash -o /dev/ttyUSB0
+st-info --probe
+st-info --probe
+st-info --probe
+cd ~/STMicroelectronics/
+l
+cd STM32Cube/
+cd STM32CubeProgrammer/
+l
+cd bin
+l
+./STM32CubeProgrammerLauncher 
+cd ~/Документы/PlatformIO/Projects/STM32_USART2/.pio/build
+hexedit
+hexedit firm.bin
+l
+cd bluepill_f103c6/
+l
+hexedit firm.bin
+hexedit firm.bin
+hexedit formware.bin
+hexedit firmware.bin
+hexedit firm.bin
+stm23flash /dev/ttyUSB0 -o
+stm32flash /dev/ttyUSB0 -o
+stm32flash /dev/ttyUSB0 -o
+stm32flash /dev/ttyUSB0 -r firm.bin
+hexedit firm.bin
+stm32flash /dev/ttyUSB0 -r firm.bin
+hexedit firm.bin
+stm32flash /dev/ttyUSB0 -r firm.bin
+hexedit firm.bin
+stm32flash /dev/ttyUSB0 -r firm.bin
+stm32flash /dev/ttyUSB0 -r firm.bin
+stm32flash /dev/ttyUSB0 -r firm.bin
+stm32flash /dev/ttyUSB0 -r firm.bin
+stm32flash /dev/ttyUSB0 -r firm.bin
+hexedit firm.bin
+stm32flash /dev/ttyUSB0 -o
+st-info --probe
+ping ya.ru
+./reloadnet.sh 
+shutdown now
+l
+l
+l
+cd ../../../
+l
+cd .pio/build
+l
+cd bluepill_f103c6/
+l
+stm32flash 
+stm32flash /dev/ttyUSB0
+stm32flash /dev/ttyUSB0
+stm32flash /dev/ttyUSB0 -o
+stm32flash /dev/ttyUSB0 -r firm.bin
+stm32flash /dev/ttyUSB0 -o
+stm32flash /dev/ttyUSB0 -r firm.bin
+stm32flash /dev/ttyUSB0 -w firmware.bin
+stm32flash /dev/ttyUSB0 -r firm.bin
+stm32flash /dev/ttyUSB0
+stm32flash /dev/ttyUSB0
+stm32flash /dev/ttyUSB0
+stm32flash /dev/ttyUSB0 -o
+stm32flash /dev/ttyUSB0
+cd ~/Документы/PlatformIO/Projects/STM32_USART2/.pio/build
+l
+ls
+cd bluepill_f103c6/
+l
+stm32flash firmware.bin 
+stm32flash /dev/ttyUSB0 firmware.bin 
+stm32flash /dev/ttyUSB0 -w firmware.bin 
+stm32flash /dev/ttyUSB0
+stm32flash /dev/ttyUSB0
+stm32flash /dev/ttyUSB0 -w firmware.bin 
+st-info --probe
+st-info --probe
+stm32flash /dev/ttyUSB0
+stm32flash /dev/ttyUSB0 -uk
+stm32flash /dev/ttyUSB0 -u
+stm32flash /dev/ttyUSB0 -k
+stm32flash -r firm.bin /dev/ttyUSB0
+hexedit firm.bin
+hexedit firm.bin
+cat /dev/ttyS1
+cat /dev/ttyS0
+cat /dev/ttyS2
+ls /dev/ttyUSB1
+ls /dev/ttyUSB0
+lsusb
+ls /dev/ttyS0
+st-info --probe
+st-flash erase
+man st-flash
+stm32flash /dev/ttyUSB0
+stm32flash /dev/ttyUSB0
+st-flash erase
+st-flash erase
+stm32flash /dev/ttyUSB0
+stm32flash /dev/ttyUSB0 -o
+stm32flash /dev/ttyUSB0 -u
+stm32flash /dev/ttyUSB0 -k
+stm32flash read firm.bin
+stm32flash -r firm.bin /dev/ttyUSB0 
+hexedit firm.bin
+st-info --probe
+st-info --probe
+st-info --probe
+stm32flash /dev/ttyUSB0
+cd STMicroelectronics/
+cd STM32Cube/
+l
+cd STM32CubeProgrammer/
+cd bin
+./STM32CubeProgrammerLauncher 
+./STM32CubeProgrammerLauncher 
+cd ~/Документы/PlatformIO/Projects/STM32_USART_IT/
+l
+st-flash write firmware.bin 0x08000000
+cd ~/STMicroelectronics/STM32Cube/STM32CubeProgrammer/bin/
+./STM32CubeProgrammerLauncher 
+cd ~/STM32CubeMX/
+l
+./STM32CubeMX 
+st-flash reset
+st-info -rOB
+st-info -rOB
+stm32flash
+st-info
+st-info --probe
+./reloadnet.sh 
+./reloadnet.sh 
+reboot
+ping ya.ru
+./reloadnet.sh
+./reloadnet.sh 
+lsusb
+shutdown now
+cd tor-browser/
+./start-tor-browser.desktop 
+man pacman 
+ping ya.ru
+sudo pamac install rstudio-desktop
+sudo pacman -S rstudio-desktop
+rstudio
+rstudio-bin
+sudo pamac remove rstudio-desktop
+reboot
+sudo pacman remove rstudio-desktop
+sudo pamac remove rstudio-desktop
+man pamac
+sudo pamac clean
+man pamac
+sudo pamac remove apache-ant boost cmake git jdk11-openjdk libcups
+sudo pamac remove ninja
+sudo pamac remove ninja
+sudo pamac remove ninja
+sudo pamac remove nodejs
+sudo pamac remove nodejs -a
+sudo pamac remove -a nodejs
+sudo pamac remove -u
+sudo pamac remove --unneeded
+sudo pacman -r node-js
+sudo pacman -r node-js
+sudo pacman -r jdk11-openjdk
+sudo pamac remove jdk11-openjdk
+sudo pamac remove yarn
+sudo pamac remove quarto
+sudo paccache -rvk0
+pamac
+sudo pamac list -o
+sudo pamac list -o | cut -f1
+sudo pamac remove --orphans
+man pamac
+sudo pamac list -i | less
+sudo su
+sudo pamac info rstudio-desktop
+sudo pamac info rstudio-desktop | less
+sudo pamac info rstudio-desktop
+sudo gparted
+sudo pacman -S pacman-gui
+sudo pacman -S pacman-gtk
+sudo pacman -Syu pamac-gtk
+conda env remove --name pygame
+cd STM32CubeMX/
+./STM32CubeMX 
+shutdown now
+reboot
+man ssh
+./reloadnet.sh 
+ssh ifilippov@ALDAN3.ITM-RSMU.RU 
+ssh ifilippov@frontend.aldan3.itm-rsmu.ru
+ssh ifilippov@frontend.aldan3.itm-rsmu.ru
+nmtui
+ssh ifilippov@frontend.aldan3.itm-rsmu.ru
+ssh ifilippov@frontend.aldan3.itm-rsmu.ru
+cd /
+ls
+vim ~/.vimrc
+arm-none-eabi-gcc
+ping ya.ru
+ping ya.ru
+man basenam
+man basename
+l
+cat .bashrc | cut -d="/" -f1
+cat .bashrc | cut -d=/ -f1
+cat .bashrc | cut -d/ -f1
+ssh ifilippov@frontend.aldan3.itm-rsmu.ru
+ssh ifilippov@frontend.aldan3.itm-rsmu.ru
+ssh ifilippov@frontend.aldan3.itm-rsmu.ru
+ssh ifilippov@frontend.aldan3.itm-rsmu.ru
+ssh ifilippov@frontend.aldan3.itm-rsmu.ru
+ssh ifilippov@frontend.aldan3.itm-rsmu.ru
+ssh ifilippov@frontend.aldan3.itm-rsmu.ru
+man read
+ssh ifilippov@frontend.aldan3.itm-rsmu.ru
+ssh ifilippov@frontend.aldan3.itm-rsmu.ru
+man read
+man read
+lsusb
+sudo pacman -S gscan2pdf
+gscan2pdf
+gscan2pdf
+sudo pacman -S cairo
+gscan2pdf
+sudo pacman -S xsane
+sudo pacman -S simple-scan
+simple-scan
+sudo -H simple-scan
+sudo pacman -S skan-page
+sudo pacman -S skanpage
+sudo pacman -S vue-scan
+sudo pacman -S vuescan
+sudo gscan2pdf
+sudo pacman -S gimagereader
+sudo pacman -S xsane
+sudo pacman -RS xsane
+sudo pacman -Rs xsane
+sudo pacman -R xsane
+sudo pacman -Sy xsane
+gscan2pdf
+sudo gscan2pdf
+sudo pamac install xsane
+hp-scan
+cd tor-browser/
+./start-tor-browser.desktop 
+shutdown now
+reboot
+92-66
+conda install pyserial
+st-info --probe
+st-info --probe
+st-flash erase
+st-info --probe
+cd ~/Документы/PlatformIO/Projects/STM32_DMA/
+l
+cd .pio/build
+l
+cd bluepill_f103c6/
+l
+l
+st-flash read firm.bin 0x08
+st-flash read firm.bin 0x08 10k
+hexedit firm.bin
+st-flash write firmware.bin 0x08
+st-flash write firmware.bin 0x08000000
+st-flash write firmware.bin 0x08000000
+st-flash write firmware.bin 0x08000000
+st-flash write firmware.bin 0x08000000
+st-info --probe
+st-flash erase
+st-flash erase
+st-flash erase
+st-info --probe
+st-flash read firm.bin 0x08 10k
+hexedit firm.bin
+st-flash erase
+st-flash read firm.bin 0x08 10k
+hexedit firm.bin
+st-flash write firmware.bin 0x08000000
+chmod a+x script.py 
+./script.py 
+./script.py 
+./script.py 
+./script.py 
+./script.py 
+reboot
+./reloadnet.sh 
+./reloadnet.sh 
+./reloadnet.sh 
+./reloadnet.sh 
+cd STM32CubeMX/
+./STM32CubeMX 
+shutdown now
+st-flash read firm.bin 0x40022020 4b
+st-flash read firm.bin 0x40022020 4
+hexedit firm.bin
+st-flash read firm.bin 0x40022020 8
+hexedit firm.bin
+st-flash read firm.bin 0x1FFFF800 16
+hexedit firm.bin
+xkill
+st-info --probe
+lsusb
+st-info --probe
+st-info --probe
+st-info --probe
+st-info --probe
+st-info --probe
+st-flash erase
+st-info --probe
+stm32flash /dev/ttyUSB0
+st-flash read firm.bin 0x08000000 31k
+hexedit form.bin
+hexedit firm.bin
+st-flash erase
+st-flash erase
+st-flash read firm.bin 0x08000000 31k
+hexedit firm.bin
+st-flash erase
+st-flash erase
+st-flash erase
+st-flash read firm.bin 0x08000000 31k
+hexedit firm.bin
+st-flash read firm.bin 0x08000000 31k
+st-flash read firm.bin 0x08000000 31k
+st-flash read firm.bin 0x08000000 31k
+st-flash
+st-flash --connect-under-rest erase
+st-flash --connect-under-reset erase
+st-flash --connect-under-reset erase
+st-flash --connect-under-reset erase
+st-flash --connect-under-reset erase
+st-flash --connect-under-reset erase
+st-flash read firm.bin 0x08000000 31k
+hexedit firm.bin
+st-info --probe
+st-flash --freq=240 erase
+st-flash --freq=240 read firm.bin 0x08000000 31k
+hexedit firm.bin
+ьфт ые-адфыр
+man st-flash
+man st-util
+man st-flash
+st-flash --reset erase
+st-info --probe
+st-info --probe
+st-info --probe
+st-info --probe
+st-info --probe
+st-info --probe
+st-info --probe
+st-info --probe
+st-info --probe
+ls /dev/ttyUSB0
+ls /dev/ttyUSB0
+lsusb
+st-info --probe
+ls /dev/ttyUSB0
+ls /dev > st.txt
+ls /dev > nost.txt
+diff st.txt nost.txt
+vimdiff st.txt nost.txt
+stm32flash /dev/stlinkv2_2
+stm32flash
+st-info --probe
+st-flash read --area=option firm.bin
+hexedit firm.bin
+lspci
+lsusb
+ls /dev > st.txt
+ls /dev > nost.txt
+vimdiff st.txt nost.txt
+st-flash erase
+st-info --probe
+st-info --probe
+st-flash erase
+st-info --probe
+shutdown now
+./reloadnet.sh 
+./reloadnet.sh 
+reboot
+./reloadnet.sh 
+cd tor-browser/
+./start-tor-browser.desktop 
+./reloadnet.sh 
+./reloadnet.sh 
+./reloadnet.sh 
+./reloadnet.sh 
+reboot
+./reloadnet.sh 
+shutdown now
+ping ya.ru
+./reloadnet.sh 
+./reloadnet.sh 
+./reloadnet.sh 
+./reloadnet.sh 
+ping ya.ru
+ping ya.ru
+./reloadnet.sh 
+cd igv/
+l
+cd IGV_Linux_2.16.2/
+l
+./igv.sh
+./reloadnet.sh 
+ping ya.ru
+./reloadnet.sh 
+shutdown now
+./reloadnet.sh 
+./reloadnet.sh 
+./reloadnet.sh 
+./reloadnet.sh 
+fg
+./reloadnet.sh 
+fg
+fg
+./reloadnet.sh 
+fg
+sudo pacman -S vlc
+vlc
+./reloadnet.sh 
+sudo pacman -r vlc
+man pacman
+sudo pacman -R vlc
+sudo pamac install vlc
+./reloadnet.sh 
+fg
+./reloadnet.sh 
+fg
+sudo pamac install vlc
+fg
+./reloadnet.sh 
+reboot
+./reloadnet.sh 
+./reloadnet.sh 
+ls ~/homework
+mkdir ~/homework
+В выдаче команды tree и файле ~/.bash_history довольно много личной информации и информации, которая может иметь значение для безопасности компьютера
